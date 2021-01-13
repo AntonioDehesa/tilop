@@ -12,3 +12,8 @@ Write-ups on small things I learn or practice everyday across a variety of langu
 
 ### Today I practiced:
 * [Robotics -> Map-Based Navigation](https://github.com/AntonioDehesa/tilop/blob/main/Robotics/Map-Based%20Navigation.md)
+
+## Day 2
+
+### Today I learned:
+* [DevOps -> Jenkins -> Running Jenkins on Tomcat](https://github.com/AntonioDehesa/tilop/blob/main/DevOps/Jenkins.md)
