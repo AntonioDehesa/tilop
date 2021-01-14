@@ -4,6 +4,7 @@ Write-ups on small things I learn or practice everyday across a variety of langu
 # Categories
 * [DevOps](https://github.com/AntonioDehesa/tilop/tree/main/DevOps)
 * [Robotics](https://github.com/AntonioDehesa/tilop/tree/main/Robotics)
+* [Security](https://github.com/AntonioDehesa/tilop/tree/main/Security)
 
 ## Day 1
 
@@ -21,4 +22,4 @@ Write-ups on small things I learn or practice everyday across a variety of langu
 ## Day 3
 
 ### Today I practiced:
-* [Security -> Web Vulnerabilities -> Python -> OS Command Injection](https://github.com/AntonioDehesa/tilop/blob/main/DevOps/Jenkins.md)
+* [Security -> Web Vulnerabilities -> Python -> OS Command Injection](https://github.com/AntonioDehesa/tilop/blob/main/Security/Web%20Vulnerabilities/Python.md)

@@ -1,7 +1,7 @@
 # OS Command Injection
 ## Problem statement: 
 A security assessment in your organization recently identified an OS Command Injection exposure associated with the maintenance functionality of an application. The functionality in question allows for the testing of server network connections using the command "ping"; a command which is executed at the OS level using unvalidated user input. Your task is to appropriately remediate the injection vulnerability, and thus safeguard the application from compromise.
-![1 - Formation](http://url/to/img.png)
+![1 - Formation](https://github.com/AntonioDehesa/tilop/blob/main/Images/Security/Python/OS%20Command%20Injection/1%20-%20Information.JPG)
 
 ## Description of the vulnerability
 
@@ -39,25 +39,25 @@ The SecureFlag labs are divided in three main sections:
 
 ### Setup 
 It is where you get your first contact with the web application of the problem. You see the code of the application (at least in this lab) and you can see the application running for the first time. After you have launched the application succesfully, you can get to the next section. 
-![2 - Setup](http://url/to/img.png)
+![2 - Setup](https://github.com/AntonioDehesa/tilop/blob/main/Images/Security/Python/OS%20Command%20Injection/2%20-%20Setup.JPG)
 
 ### Hack
 This section is optional, but I highly encourage it. 
 You get the opportunity to test the vulnerability on a live and responsive application. The laboratory gives you instructions on what to do, but it does not give you the exact attack commands. 
 It is really useful, specially to see both the scope of the impact, as well as the easiness of the attack. 
-![3 - Hack](http://url/to/img.png)
+![3 - Hack](https://github.com/AntonioDehesa/tilop/blob/main/Images/Security/Python/OS%20Command%20Injection/3%20-%20Hack.JPG)
 
 ### Fix
 Afterwards, we get the *Fix* section. In this section, our duty is to fix the vulnerable code. 
 In this case, it was achieved by changing one line of code. Of course, in future labs it may be harder. 
 First, the line of code that was changed:  
-![4 - Fix A](http://url/to/img.png)  
+![4 - Fix A](https://github.com/AntonioDehesa/tilop/blob/main/Images/Security/Python/OS%20Command%20Injection/4%20-%20Fix%20a.JPG)  
 Next, the new result now that the app has been fixed.  
-![4 - Fix B](http://url/to/img.png)  
+![4 - Fix B](https://github.com/AntonioDehesa/tilop/blob/main/Images/Security/Python/OS%20Command%20Injection/4%20-%20Fix%20b.JPG)  
 
 ### Results
 Finally, we get our score for the lab.  
-![4 - Fix A](http://url/to/img.png)
+![5 - Results](https://github.com/AntonioDehesa/tilop/blob/main/Images/Security/Python/OS%20Command%20Injection/5%20-%20Correct%20Answer.JPG)
 
 
 ### Source
