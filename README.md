@@ -17,3 +17,8 @@ Write-ups on small things I learn or practice everyday across a variety of langu
 
 ### Today I learned:
 * [DevOps -> Jenkins -> Running Jenkins on Tomcat](https://github.com/AntonioDehesa/tilop/blob/main/DevOps/Jenkins.md)
+
+## Day 3
+
+### Today I practiced:
+* [Security -> Web Vulnerabilities -> Python -> OS Command Injection](https://github.com/AntonioDehesa/tilop/blob/main/DevOps/Jenkins.md)
