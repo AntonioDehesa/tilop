@@ -41,7 +41,7 @@ There are other methods, such as Cartographer, and Hector_SLAM, but those will b
 * Unknown areas are marked as **-1**
 
 In RVIZ we can see the live process of the mapping.  
-![Here is a screenshot of the mapping process](https://meh.com)
+![Here is a screenshot of the mapping process](https://github.com/AntonioDehesa/tilop/blob/main/Images/Robotics/Map%20Based%20Navigation/1%20-%20Gmapping.png)
 
 The ran instructions, in different terminals, where: 
 ```bash
@@ -55,7 +55,7 @@ Meaning of the colors:
 * White: Empty cell
 * Gray: Unknown
 * Black: Occupied
-![Finished the process, only for the example. It is obviously not completed.](https://meh.com)
+![Finished the process, only for the example. It is obviously not completed.](https://github.com/AntonioDehesa/tilop/blob/main/Images/Robotics/Map%20Based%20Navigation/2%20-%20After%20Moving%20the%20turtlebor.png)
 ## Reading Map Results
 ```yaml
 image: /home/antonio/tb3_house_map.pgm
@@ -65,7 +65,7 @@ negate: 0
 occupied_thresh: 0.65
 free_thresh: 0.196
 ```
-![YML file and Resulting map](https://meh.com)
+![YML file and Resulting map](https://github.com/AntonioDehesa/tilop/blob/main/Images/Robotics/Map%20Based%20Navigation/3%20-%20Results%20of%20the%20mapping.png)
 * Image: Location of the image of the map. It is in BGM format.
 * Resolution: Resolution of the map. Expressed in meter/pixel. 
 * Origin: [X,Y,Z] position of the origin of the map. 
