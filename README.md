@@ -23,3 +23,8 @@ Write-ups on small things I learn or practice everyday across a variety of langu
 
 ### Today I practiced:
 * [Security -> Web Vulnerabilities -> Python -> OS Command Injection](https://github.com/AntonioDehesa/tilop/blob/main/Security/Web%20Vulnerabilities/Python.md)
+
+## Day 4
+
+### Today I practiced:
+* [Robotics -> Map-Based Navigation](https://github.com/AntonioDehesa/tilop/blob/main/Robotics/Map-Based%20Navigation.md)
