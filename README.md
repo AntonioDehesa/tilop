@@ -28,3 +28,13 @@ Write-ups on small things I learn or practice everyday across a variety of langu
 
 ### Today I practiced:
 * [Robotics -> Map-Based Navigation](https://github.com/AntonioDehesa/tilop/blob/main/Robotics/Map-Based%20Navigation.md)
+
+
+## Day 5
+
+### Today I learned:
+* [Security -> Burp Suite -> Introduction](https://github.com/AntonioDehesa/tilop/blob/main/Robotics/Map-Based%20Navigation.md)
+
+### Today I practiced:
+* [Security -> OverTheWire -> Wargames -> Bandit]()
+Honestly, i did not truly feel it was a very productive day in terms of what I learned, but that is due to account problems in SecureFlag (which said I was locked out) and some personal chores that had to be done. Tomorrow I will be continue with the ROS Course for Robotics. 
