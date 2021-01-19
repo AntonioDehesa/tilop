@@ -2,7 +2,7 @@
 Write-ups on small things I learn or practice everyday across a variety of languages and technologies.
 
 # Categories
-* [Containers]()
+* [Containers](https://github.com/AntonioDehesa/tilop/tree/main/Containers)
 * [DevOps](https://github.com/AntonioDehesa/tilop/tree/main/DevOps)
 * [Robotics](https://github.com/AntonioDehesa/tilop/tree/main/Robotics)
 * [Security](https://github.com/AntonioDehesa/tilop/tree/main/Security)
@@ -73,9 +73,9 @@ So, I mainly followed the Docker guide, but I had some troubles with it. So, I w
 * [Docker: Get Started](https://docs.docker.com/get-started/)
 
 ### Today I Learned: 
-* [Containers -> Docker -> Installation]()
-* [Containers -> Docker -> First Launch]()
-* [Containers -> Docker -> Updating an Image]()
+* [Containers -> Docker -> Installation][Docker]
+* [Containers -> Docker -> First Launch][Docker]
+* [Containers -> Docker -> Updating an Image][Docker]
 <!---
 ## Day x
 ### Today's progress: 
@@ -83,3 +83,4 @@ So, I mainly followed the Docker guide, but I had some troubles with it. So, I w
 -->
 
 [ROS Course Part 2]: https://www.udemy.com/course/ros-navigation/
+[Docker]: https://github.com/AntonioDehesa/tilop/blob/main/Containers/Docker.md
