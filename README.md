@@ -69,6 +69,10 @@ Honestly, i did not truly feel it was a very productive day in terms of what I l
 So I started to learn Docker!!!. I would like to continue with my ROS Course, but currently, due to work, Docker is a little bit of a priority, at least the very basics.  
 So, I mainly followed the Docker guide, but I had some troubles with it. So, I wrote all the commands I used for the installation.
 
+Besides, I already started creating my own image, but it is not going great...
+
+I also continued with the ROS course in Udemy, although my progress was quite slow, due to a problem with the path for the map, necessary for the map-based navigation. The error was quite simple, which made me feel bad...
+
 ### Sources: 
 * [Docker: Get Started](https://docs.docker.com/get-started/)
 
@@ -76,6 +80,9 @@ So, I mainly followed the Docker guide, but I had some troubles with it. So, I w
 * [Containers -> Docker -> Installation][Docker]
 * [Containers -> Docker -> First Launch][Docker]
 * [Containers -> Docker -> Updating an Image][Docker]
+
+### Today I Practiced: 
+* [Robotics -> Map-Based Navigation](https://github.com/AntonioDehesa/tilop/blob/main/Robotics/Map-Based%20Navigation.md)
 <!---
 ## Day x
 ### Today's progress: 
@@ -84,3 +91,4 @@ So, I mainly followed the Docker guide, but I had some troubles with it. So, I w
 
 [ROS Course Part 2]: https://www.udemy.com/course/ros-navigation/
 [Docker]: https://github.com/AntonioDehesa/tilop/blob/main/Containers/Docker.md
+

@@ -71,3 +71,15 @@ free_thresh: 0.196
 * Origin: [X,Y,Z] position of the origin of the map. 
 * Occupied Threshold: Any pixel greater than this number, will be considered occupied. Remember, it is either occupied or not, so a true/false or binary threshold is used. 
 * Free Threshold: Same, but with free cells. 
+
+
+## Map Navigation
+Once we have our map, we can begin with the navigation part. 
+For this, the commands we used were: 
+```bash
+roslaunch turtlebot3_gazebo turtlebot3_house.launch
+roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=/home/username/tb3map/tb3_house_map.yaml
+```
+My mistake was NOT including the username in the path. Pretty simple mistake, but still...
+
+I am about to complete the ROS Course, so afterwards, I plan to do a project. 
