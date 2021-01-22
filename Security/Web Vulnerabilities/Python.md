@@ -62,3 +62,117 @@ Finally, we get our score for the lab.
 
 ### Source
 * [SecureFlag](https://secureflag.owasp.org/)
+
+# CSRF
+
+## Description of the vulnerability
+
+So, what is CSRF.  
+CSRF is a type of attack where an authenticated user in a legitimate site clicks a link that takes them to an insecure webpage, that has a hidden POST form. This POST form uses the API of the legitimate site to make requests to the site using the legitimate users credentials. 
+
+## Impact
+The impact can go from *just* information leakage, to unwanted actions of the users, and possibly loss of users. 
+
+## Example of attack
+So, lets say there is a legitimate user that logged in to his bank account, called Bank.  
+Now, this user clicks a link such as: www.insecureplace.com.  
+Now, after clicking, we realizes nothing actually happens, so he closes that tab. After reloading his bank tab, he realizes that he lost some money. And this script is what happened. 
+```html
+<form action="http://bank.com/transfer.do" method="POST">
+
+<input type="hidden" name="acct" value="MARIA"/>
+<input type="hidden" name="amount" value="100000"/>
+<input type="submit" value="View my pictures"/>
+
+</form>
+```
+## Prevention
+
+The prevention is quite easy, theoretically. By using a CSRF secret token, which will be hidden inside the site, and the server will be expecting this token with every POST, PUT, DELETE, etc, request. 
+This Token should be completely random, as to ensure the security. 
+
+## Lab
+
+The SecureFlag labs are divided in three main sections:
+* Setup
+* Hack
+* Fix
+
+### Setup 
+It is where you get your first contact with the web application of the problem.  
+You see the code of the application (at least in this lab) and you can see the application running for the first time. After you have launched the application succesfully, you can get to the next section. 
+![CSRF - Setup]()
+
+### Hack
+This section is optional, but I highly encourage it. 
+You get the opportunity to test the vulnerability on a live and responsive application. The laboratory gives you instructions on what to do, but it does not give you the exact attack commands. 
+It is really useful, specially to see both the scope of the impact, as well as the easiness of the attack. 
+In this case, the legitimate user literally only has to click on a link, and if there is no CSRF token, thats it. 
+![CSRF - Hack]()
+
+### Fix
+Afterwards, we get the *Fix* section. In this section, our duty is to fix the vulnerable code. 
+In this case, it was achieved by adding three lines of code. It was quite simple, but it is a good example to show how easily we can make our app slightly more secure.  
+![CSRF - Fix]()  
+### Results
+Finally, we get our score for the lab.  
+![5 - Results](https://github.com/AntonioDehesa/tilop/blob/main/Images/Security/Python/OS%20Command%20Injection/5%20-%20Correct%20Answer.JPG)
+
+# XSS
+
+## Description of the vulnerability
+
+So, what is XSS.  
+XSS is a tpye of vulnerability that allows an attacker to introduce code in the application that was not supposed to be executed. There are three types of XSS: 
+* Reflected: It immediately executes the injected code. 
+* Stored: It stores the injected code, and every time that code gets called it gets executed.
+* DOM: In here, the target of the attack is the environment of the app, so the client side code runs in an unnexpected way. The one that we will be seeing in this lab will be Reflected. 
+
+## Impact
+The impact can go from *just* information leakage, to basically anything, within the scopes of its own type of XSS. 
+
+## Example of attack
+If www.bank.com is vulnerable to XSS, we could do something like: 
+```js
+www.bank.com/<script>alert(1)</script>
+```
+This way, it will execute the code inside the script tag
+## Prevention
+
+In this lab, the way to solve it was really simple. We relied on codification of the special characters. 
+Instead of <>, we would get &lt&mt of something like that. 
+There are other ways to solve it, such as: 
+* Whitelisting: We can use whitelisting to allow only certain words to be allowed. That would be ideal. 
+* Sanitization: With this one, we encode the special characters such as <,>, (,), etc. Use with whitelisting, or in case you cant use whitelisting 
+* Blacklisting: We forbid certain words. Last option, really. 
+
+## Lab
+
+The SecureFlag labs are divided in three main sections:
+* Setup
+* Hack
+* Fix
+
+### Setup 
+It is where you get your first contact with the web application of the problem.  
+You see the code of the application (at least in this lab) and you can see the application running for the first time. After you have launched the application succesfully, you can get to the next section. 
+![CSRF - Setup]()
+
+### Hack
+This section is optional, but I highly encourage it. 
+You get the opportunity to test the vulnerability on a live and responsive application. The laboratory gives you instructions on what to do, but it does not give you the exact attack commands. 
+It is really useful, specially to see both the scope of the impact, as well as the easiness of the attack. 
+As wee could see previously, we could just do 
+```js
+www.bank.com/<script>alert(1)</script>
+```
+![CSRF - Hack]()
+
+### Fix
+Afterwards, we get the *Fix* section. In this section, our duty is to fix the vulnerable code. 
+In this case, the way to fix it was simply removing the *safe* tag. This would encode the output. We could also use a whitelist character per character, but this one is easier. 
+![CSRF - Fix]()  
+### Results
+Finally, we get our score for the lab.  
+![5 - Results](https://github.com/AntonioDehesa/tilop/blob/main/Images/Security/Python/OS%20Command%20Injection/5%20-%20Correct%20Answer.JPG)
+

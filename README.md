@@ -11,10 +11,10 @@ Write-ups on small things I learn or practice everyday across a variety of langu
 ### Today's progress: 
  Day 1. Today I had my first contact with Jenkins, and I read something about Map-Based Navigation. For the Map-Based Navigation, I am currently taking the Udemy Course: ROS for Beginners II, by Anis Koubaa.
 ### Today I learned: 
-* [DevOps -> Jenkins -> First Contact](https://github.com/AntonioDehesa/tilop/blob/main/DevOps/Jenkins.md)
+* [DevOps -> Jenkins -> First Contact][Jenkins]
 
 ### Today I practiced:
-* [Robotics -> Map-Based Navigation](https://github.com/AntonioDehesa/tilop/blob/main/Robotics/Map-Based%20Navigation.md)
+* [Robotics -> Map-Based Navigation][Map-Based]
 
 ### Sources: 
 * [ROS Course Part 2, by Anis Koubaa][ROS Course Part 2]
@@ -23,23 +23,23 @@ Write-ups on small things I learn or practice everyday across a variety of langu
 ### Today's progress: 
 Today I had to mount Jenkins on Tomcat, to implement a CI/CD solution with GitLab. 
 ### Today I learned:
-* [DevOps -> Jenkins -> Running Jenkins on Tomcat](https://github.com/AntonioDehesa/tilop/blob/main/DevOps/Jenkins.md)
+* [DevOps -> Jenkins -> Running Jenkins on Tomcat][Jenkins]
 
 ## Day 4: Jan 15 2021
 ### Today's progress: 
 Today the topic was: Security. I wanted to learn/practice something basic, such as OS Command Injections. I really like the way it is presented in SecureFlag.
 
 ### Today I practiced:
-* [Security -> Web Vulnerabilities -> Python -> OS Command Injection](https://github.com/AntonioDehesa/tilop/blob/main/Security/Web%20Vulnerabilities/Python.md)
+* [Security -> Web Vulnerabilities -> Python -> OS Command Injection][SecurePython]
 
 ### Sources: 
-* [SecureFlag](https://www.secureflag.com/index.html)
+* [SecureFlag][SecureFlag]
 
 ## Day 5: Jan 16 2021
 ### Today's progress: 
  Today I practiced map-making algorithms using SLAM. 
 ### Today I practiced:
-* [Robotics -> Map-Based Navigation](https://github.com/AntonioDehesa/tilop/blob/main/Robotics/Map-Based%20Navigation.md)
+* [Robotics -> Map-Based Navigation][Map-Based]
 
 
 ## Day 6: Jan 17 2021
@@ -48,10 +48,10 @@ Today the topic was: Security. I wanted to learn/practice something basic, such 
  Today, i could only truly checkout the Burp Suite introduction, and the Overthewire-Wargames-Bandit. Tomorrom I will continue with the ROS Robotics Part 2 Course.
 
 ### Today I learned:
-* [Security -> Burp Suite -> Introduction](https://github.com/AntonioDehesa/tilop/blob/main/Security/Burp%20Suite/BurpSuite.md)
+* [Security -> PenTest -> Burp Suite -> Introduction][BurpSuite]
 
 ### Today I practiced:
-* [Security -> OverTheWire -> Wargames -> Bandit](https://github.com/AntonioDehesa/tilop/blob/main/Security/OverTheWire/Wargames/Bandit/Wargames.md)
+* [Security -> OverTheWire -> Wargames -> Bandit][WarGames]
 Honestly, i did not truly feel it was a very productive day in terms of what I learned, but that is due to account problems in SecureFlag (which said I was locked out) and some personal chores that had to be done. Tomorrow I will be continue with the ROS Course for Robotics. 
 
 
@@ -100,9 +100,18 @@ I really liked the use of Docker, so I will get back to it.
 * [Containers -> Docker -> Updating an Image][Docker]
 
 
-<!--## Day 10: Jan 21 2021
+## Day 10: Jan 21 2021
 ### Today's progress: 
-### Sources: -->
+Today, I decided to continue practice at SecureFlag.  
+The topics of today were: 
+* [Security -> Python -> CSRF][SecurePython]
+* [Security -> Python -> XSS][SecurePython]
+
+Today was kind of slow, but hey, slow and steady...
+Tomorrow, I plan to continue HackerRank, and if I have a little extra time, I will continue the ROS Course. 
+### Sources:
+
+* [SecureFlag][SecureFlag]
 
 <!---
 ## Day x
@@ -113,3 +122,9 @@ I really liked the use of Docker, so I will get back to it.
 [ROS Course Part 2]: https://www.udemy.com/course/ros-navigation/
 [Docker]: https://github.com/AntonioDehesa/tilop/blob/main/Containers/Docker.md
 
+[Jenkins]: https://github.com/AntonioDehesa/tilop/blob/main/DevOps/Jenkins.md
+[Map-Based]: https://github.com/AntonioDehesa/tilop/blob/main/Robotics/Map-Based%20Navigation.md
+[SecurePython]: https://github.com/AntonioDehesa/tilop/blob/main/Security/Web%20Vulnerabilities/Python.md
+[BurpSuite]: https://github.com/AntonioDehesa/tilop/blob/main/Security/Burp%20Suite/BurpSuite.md
+[WarGames]: https://github.com/AntonioDehesa/tilop/blob/main/Security/OverTheWire/WargamesWargames.md
+[SecureFlag]: https://www.secureflag.com/index.html
