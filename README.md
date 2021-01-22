@@ -83,6 +83,27 @@ I also continued with the ROS course in Udemy, although my progress was quite sl
 
 ### Today I Practiced: 
 * [Robotics -> Map-Based Navigation](https://github.com/AntonioDehesa/tilop/blob/main/Robotics/Map-Based%20Navigation.md)
+
+## Day 9: Jan 20 2021
+### Today's progress: 
+So, the need to learn Docker at my job has passed...  
+So, for now, Docker is not my priority. I will just complete the coursera course I started related to Docker, and then I will continue with the ROS Course, practice at HackerRank, and SecureFlag. 
+I really liked the use of Docker, so I will get back to it. 
+
+### Sources: 
+* [Docker: Get Started](https://docs.docker.com/get-started/)
+* [Docker: Container essentials](https://www.coursera.org/learn/docker-container-essentials-web-app/home/welcome)
+
+### Today I Practiced: 
+* [Containers -> Docker -> Installation][Docker]
+* [Containers -> Docker -> First Launch][Docker]
+* [Containers -> Docker -> Updating an Image][Docker]
+
+
+<!--## Day 10: Jan 21 2021
+### Today's progress: 
+### Sources: -->
+
 <!---
 ## Day x
 ### Today's progress: 
