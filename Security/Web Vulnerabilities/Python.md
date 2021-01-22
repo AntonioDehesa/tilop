@@ -101,19 +101,19 @@ The SecureFlag labs are divided in three main sections:
 ### Setup 
 It is where you get your first contact with the web application of the problem.  
 You see the code of the application (at least in this lab) and you can see the application running for the first time. After you have launched the application succesfully, you can get to the next section. 
-![CSRF - Setup]()
+![CSRF - Setup](https://github.com/AntonioDehesa/tilop/blob/main/Images/Security/Python/CSRF/CSRF%20-%20Setup.png)
 
 ### Hack
 This section is optional, but I highly encourage it. 
 You get the opportunity to test the vulnerability on a live and responsive application. The laboratory gives you instructions on what to do, but it does not give you the exact attack commands. 
 It is really useful, specially to see both the scope of the impact, as well as the easiness of the attack. 
 In this case, the legitimate user literally only has to click on a link, and if there is no CSRF token, thats it. 
-![CSRF - Hack]()
+![CSRF - Hack](https://github.com/AntonioDehesa/tilop/blob/main/Images/Security/Python/CSRF/CSRF%20-%20Hack.png)
 
 ### Fix
 Afterwards, we get the *Fix* section. In this section, our duty is to fix the vulnerable code. 
 In this case, it was achieved by adding three lines of code. It was quite simple, but it is a good example to show how easily we can make our app slightly more secure.  
-![CSRF - Fix]()  
+![CSRF - Fix](https://github.com/AntonioDehesa/tilop/blob/main/Images/Security/Python/CSRF/CSRF%20-%20Fix.png)  
 ### Results
 Finally, we get our score for the lab.  
 ![5 - Results](https://github.com/AntonioDehesa/tilop/blob/main/Images/Security/Python/OS%20Command%20Injection/5%20-%20Correct%20Answer.JPG)
@@ -156,7 +156,7 @@ The SecureFlag labs are divided in three main sections:
 ### Setup 
 It is where you get your first contact with the web application of the problem.  
 You see the code of the application (at least in this lab) and you can see the application running for the first time. After you have launched the application succesfully, you can get to the next section. 
-![CSRF - Setup]()
+![XSS - Setup](https://github.com/AntonioDehesa/tilop/blob/main/Images/Security/Python/XSS/XSS%20-%20Setup.png)
 
 ### Hack
 This section is optional, but I highly encourage it. 
@@ -166,12 +166,12 @@ As wee could see previously, we could just do
 ```js
 www.bank.com/<script>alert(1)</script>
 ```
-![CSRF - Hack]()
+![XSS - Hack](https://github.com/AntonioDehesa/tilop/blob/main/Images/Security/Python/XSS/XSS%20-%20Hack.png)
 
 ### Fix
 Afterwards, we get the *Fix* section. In this section, our duty is to fix the vulnerable code. 
 In this case, the way to fix it was simply removing the *safe* tag. This would encode the output. We could also use a whitelist character per character, but this one is easier. 
-![CSRF - Fix]()  
+![XSS - Fix](https://github.com/AntonioDehesa/tilop/blob/main/Images/Security/Python/XSS/XSS%20-%20Fix.png)  
 ### Results
 Finally, we get our score for the lab.  
 ![5 - Results](https://github.com/AntonioDehesa/tilop/blob/main/Images/Security/Python/OS%20Command%20Injection/5%20-%20Correct%20Answer.JPG)
