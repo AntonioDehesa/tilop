@@ -113,6 +113,14 @@ Tomorrow, I plan to continue HackerRank, and if I have a little extra time, I wi
 
 * [SecureFlag][SecureFlag]
 
+## Day 11: Jan 22 2021
+### Today's progress:  
+So, today at work I learned to create reports in GitLab Pipelines, and automatically send those reports via email. Unfortunately, GitLab does not support sending mails with the created reports, so, the way to do it is to create the necessary reports, and in the next job, send then using an external service, such as MailGun API. 
+
+Besides that, I solved a daily challenge at HackerRank. Today, I treated myself to an easy challenge. Tomorrow I will be doing a medium one. 
+### Sources: 
+* [Send GitLab CI reports & artifacts via e-mail](https://medium.com/devops-with-valentine/send-gitlab-ci-reports-artifacts-via-e-mail-86bc96e66511)
+* [HackerRank: Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem)
 <!---
 ## Day x
 ### Today's progress: 
