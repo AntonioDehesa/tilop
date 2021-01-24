@@ -121,6 +121,12 @@ Besides that, I solved a daily challenge at HackerRank. Today, I treated myself 
 ### Sources: 
 * [Send GitLab CI reports & artifacts via e-mail](https://medium.com/devops-with-valentine/send-gitlab-ci-reports-artifacts-via-e-mail-86bc96e66511)
 * [HackerRank: Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem)
+
+
+## Day 12: Jan 23 2021
+### Today's progress: 
+I simply continued my ROS Course. Im about to complete it. I just need to finish 4 more lessons in section 7, and then, section 8 and 9.  
+After I finish this course, I plan on doing a little project, using Amazon's warehouse map, and then start with the Udemy course on Computer Vision. 
 <!---
 ## Day x
 ### Today's progress: 
