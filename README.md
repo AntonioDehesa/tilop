@@ -127,6 +127,8 @@ Besides that, I solved a daily challenge at HackerRank. Today, I treated myself 
 ### Today's progress: 
 I simply continued my ROS Course. Im about to complete it. I just need to finish 4 more lessons in section 7, and then, section 8 and 9.  
 After I finish this course, I plan on doing a little project, using Amazon's warehouse map, and then start with the Udemy course on Computer Vision. 
+### Sources: 
+* [Robotics -> Map-Based Navigation -> Navigation node](https://github.com/AntonioDehesa/tilop/blob/main/Robotics/Map-Based%20Navigation.md)
 <!---
 ## Day x
 ### Today's progress: 

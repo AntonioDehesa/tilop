@@ -83,3 +83,10 @@ roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=/home/use
 My mistake was NOT including the username in the path. Pretty simple mistake, but still...
 
 I am about to complete the ROS Course, so afterwards, I plan to do a project. 
+
+
+## Navigation node
+
+At first I thought that the best way to do a large-scale, or swarm robotics.  
+But, according to the ROS Course, it is not. Services are too slow, and they lock the robot from doing anything else while the service is controlling it.
+The way to avoid this, is by using the actionLib. This is an asynchronous method, which would not lock the robot down while moving it. 
