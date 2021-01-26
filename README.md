@@ -129,6 +129,16 @@ I simply continued my ROS Course. Im about to complete it. I just need to finish
 After I finish this course, I plan on doing a little project, using Amazon's warehouse map, and then start with the Udemy course on Computer Vision. 
 ### Sources: 
 * [Robotics -> Map-Based Navigation -> Navigation node](https://github.com/AntonioDehesa/tilop/blob/main/Robotics/Map-Based%20Navigation.md)
+
+
+## Day 13: Jan 25 2021
+### Today's progress: 
+
+HackerRank daily challenge - Medium difficulty. 
+Besides, I am just about to complete my ROS course, so I am happy for that. The code will be in my repository [InterPrep](https://github.com/AntonioDehesa/InterPrep). 
+
+### Sources: 
+* [HackerRank](hackerrank.com/)
 <!---
 ## Day x
 ### Today's progress: 
