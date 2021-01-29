@@ -139,6 +139,15 @@ Besides, I am just about to complete my ROS course, so I am happy for that. The 
 
 ### Sources: 
 * [HackerRank](hackerrank.com/)
+
+## Day 14: Jan 27 2021
+### Today's progress: 
+Daily coding challenge. I found it to be quite easy, but still, it was a great practice.   
+Completed a Docker beginners course. But in reality, I did not learn anything new in that course. It was a good practice, but still, very basic. I hope to get a better course next time.  
+Completed ROS Course. Felt a little bit incomplete, because I feel the "lets put it all together" was missing, and that is my favorite part in any course.  
+
+### Sources: 
+* [ROS Course][ROS Course Part 2]
 <!---
 ## Day x
 ### Today's progress: 
