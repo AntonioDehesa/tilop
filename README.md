@@ -155,6 +155,15 @@ Even though it was an introductory level course, I enjoyed it. I really liked Do
 Besides, I finally completed the ROS Course. I liked it, but I think there was one missing lesson: Putting it all together, and that is my favorite part in any course.  
 ### Sources: 
 * [ROS Course][ROS Course Part 2]
+
+## Day 15: Jan 29 2021
+### Today's progress: 
+Daily coding challenge. It was a random challenge I found somewhere (i forgot... damn). It was quite easy. 
+Besides that, I did a lab in SecureFlag. It was about insufficient randomnization in criptography. It was very easy, but i love that. I really like it when such vulnerabilities can be easily solved, because it shows the very little effort sometimes you need to make your site more secure. 
+
+## Day 16: Jan 30 2021
+### Today's progress: 
+Today, I just did another random challenge, and one Leetcode challenge (Largest Divisible Subset). They were supossed to be easy, but for some reason, I felt they were really hard. Perhaps because im tired, but still. Tomorrow ,I will do another hackerrank challenge, aaaaand, as i just completed my ROS Course, I will start a Python for Computer Vision course. 
 <!---
 ## Day x
 ### Today's progress: 
