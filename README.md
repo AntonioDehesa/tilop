@@ -164,6 +164,16 @@ Besides that, I did a lab in SecureFlag. It was about insufficient randomnizatio
 ## Day 16: Jan 30 2021
 ### Today's progress: 
 Today, I just did another random challenge, and one Leetcode challenge (Largest Divisible Subset). They were supossed to be easy, but for some reason, I felt they were really hard. Perhaps because im tired, but still. Tomorrow ,I will do another hackerrank challenge, aaaaand, as i just completed my ROS Course, I will start a Python for Computer Vision course. 
+
+## Day 17: Feb 01 2021
+### Today's progress: 
+Daili HackerRank challenge. Today, it was a "medium" challenge. I managed to solve it, but it only passed 5/14 tests due to the time limit. It was, to be fair, very inneficient.  
+Afterwards, I looked for a more efficient solution, and wow, it was much better. Important thing is, I learned today. 
+Besides that, I started my Computer Vision for Python course. 
+I only did the setup though, as my old laptop had some problems with it. 
+### Sources: 
+
+* [Python for Computer Vision with OpenCV and Deep Learning](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/), by Jose Portilla
 <!---
 ## Day x
 ### Today's progress: 
