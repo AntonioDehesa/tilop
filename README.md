@@ -167,13 +167,22 @@ Today, I just did another random challenge, and one Leetcode challenge (Largest 
 
 ## Day 17: Feb 01 2021
 ### Today's progress: 
-Daili HackerRank challenge. Today, it was a "medium" challenge. I managed to solve it, but it only passed 5/14 tests due to the time limit. It was, to be fair, very inneficient.  
+Daily HackerRank challenge. Today, it was a "medium" challenge. I managed to solve it, but it only passed 5/14 tests due to the time limit. It was, to be fair, very inneficient.  
 Afterwards, I looked for a more efficient solution, and wow, it was much better. Important thing is, I learned today. 
 Besides that, I started my Computer Vision for Python course. 
 I only did the setup though, as my old laptop had some problems with it. 
 ### Sources: 
 
 * [Python for Computer Vision with OpenCV and Deep Learning](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/), by Jose Portilla
+
+## Day 18: Feb 02 2021
+### Today's progress: 
+Daily HackerRank challenge. Today, it was an easy one. I think it was in the wrong cathegory, as the solution for it was not exactly the expected one. 
+Besides that, I solved the Weak Cipher Mode lab in SecureFlag.  
+Honestly, i think there was a mistake there. To solve it, it asks you to use an IV, but according to the documentation, it is not mandatory to use one in the arguments, as if you dont, it will automatically assign a random IV for you. But meh, in cant always be perfect. 
+### Sources: 
+* [HackerRank](www.hackerrank.com)
+* [SecureFlag](www.secureflag.com) 
 <!---
 ## Day x
 ### Today's progress: 
