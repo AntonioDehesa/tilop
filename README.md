@@ -183,6 +183,18 @@ Honestly, i think there was a mistake there. To solve it, it asks you to use an 
 ### Sources: 
 * [HackerRank](www.hackerrank.com)
 * [SecureFlag](www.secureflag.com) 
+
+
+## Day 19: Feb 03 2021
+### Today's progress: 
+
+Daily HackerRank chalenge. It was an easy one. It was, well, easy, but the process to solve it was interesting. Honestly, it took much longer than expected, due to me wanting to solve it in less than O(n log n), which, apparently, is possible, but the O(n) solution is highly unstable, cause in most cases, it is O(n), but in the worst cases, it can become > O(n^2), but the O(n log n) is always the same. 
+
+Besides that, I continued the Python for CV course. 
+
+### Sources: 
+* [Python for Computer Vision with OpenCV and Deep Learning](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/), by Jose Portilla
+* [HackerRank](www.hackerrank.com)
 <!---
 ## Day x
 ### Today's progress: 
