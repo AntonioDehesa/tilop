@@ -195,6 +195,16 @@ Besides that, I continued the Python for CV course. Today, it was just the intro
 ### Sources: 
 * [Python for Computer Vision with OpenCV and Deep Learning](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/), by Jose Portilla
 * [HackerRank](www.hackerrank.com)
+* [SecureFlag](www.secureflag.com) 
+
+## Day 20: Feb 04 2021
+### Today's progress:
+HackerRanks daily challenge: medium difficulty. It was an easy challenge, so I think it should not be on medium difficulty. 
+SecureFlag labs: SQL Injection and Server-Side Template Injection. 
+### Sources: 
+* [HackerRank](www.hackerrank.com)
+* [SecureFlag](www.secureflag.com) 
+
 <!---
 ## Day x
 ### Today's progress: 
