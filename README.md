@@ -205,6 +205,20 @@ SecureFlag labs: SQL Injection and Server-Side Template Injection.
 * [HackerRank](www.hackerrank.com)
 * [SecureFlag](www.secureflag.com) 
 
+
+## Day 21: Feb 08 2021
+### Today's progress: 
+
+So, I did not study on Friday because i had some german homework.  
+Also, i did not study on saturday and sunday because... i wanted a rest. I simply played all weekend. 
+But now, it is time to get back on with my studies. And what a bad day to restart!  
+Today i got the results for a scholarship i applied to 2 months ago. And, nope. So, no master's degree for a while!
+I will keep on studying for now by my own. I will apply again next year, but for another program. 
+
+Back on topic, today I continued with my Python CV course. And, i decided to change study strategy. Instead of taking one day for this, one day for that, this time i will try one week for this, one week for that. I hope advances will be faster this way. 
+
+In the python course, i completed Section 2: NumPy and Image Basics. Liking it so far. 
+
 <!---
 ## Day x
 ### Today's progress: 
