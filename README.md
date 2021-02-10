@@ -219,6 +219,15 @@ Back on topic, today I continued with my Python CV course. And, i decided to cha
 
 In the python course, i completed Section 2: NumPy and Image Basics. Liking it so far. 
 
+## Day 22: Feb 09 2021
+### Today's progress: 
+
+So, today was kind of a weird day at work. I work from home right now (you know, the pandemic) and the electricity went off!!!
+I had to go get a place with electricity, internet (secure) and being at least in a not-too-crowded place. Kind of, tiring. 
+But ok.
+In learning, I continued my Python for CV course. Im in the third section, using OpenCV.  
+Liking it so far. 
+
 <!---
 ## Day x
 ### Today's progress: 
