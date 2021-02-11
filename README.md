@@ -228,6 +228,12 @@ But ok.
 In learning, I continued my Python for CV course. Im in the third section, using OpenCV.  
 Liking it so far. 
 
+## Day 22: Feb 10 2021
+### Today's progress: 
+
+I simply continued with my Python for OpenCV course. Today, it was all about drawing on images using OpenCV. It was slow, but it is neccesary.  
+That is all for today...
+
 <!---
 ## Day x
 ### Today's progress: 
