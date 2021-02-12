@@ -234,6 +234,14 @@ Liking it so far.
 I simply continued with my Python for OpenCV course. Today, it was all about drawing on images using OpenCV. It was slow, but it is neccesary.  
 That is all for today...
 
+## Day 23: Feb 11 2021
+### Today's progress: 
+
+Today is my birthday!!
+But, there is not much to do really. Nothing open, not many friends in town, and even if there were, there is a lockdown due to covid. 
+So, I continued with my CV course. Completed section 3/9. 
+But after sunday, i will leave this course on pause, because i will continue Coding Week haha, on HackerRank. Then, next week, i will continue with the secure programming training on SecureFlag. 
+
 <!---
 ## Day x
 ### Today's progress: 
