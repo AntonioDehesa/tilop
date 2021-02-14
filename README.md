@@ -242,6 +242,12 @@ But, there is not much to do really. Nothing open, not many friends in town, and
 So, I continued with my CV course. Completed section 3/9. 
 But after sunday, i will leave this course on pause, because i will continue Coding Week haha, on HackerRank. Then, next week, i will continue with the secure programming training on SecureFlag. 
 
+
+## Day 24: Feb 13 2021
+### Today's progress: 
+
+I could not continue my course yesterday, due to german homework. 
+But, i compensated it today. Im halfway through the section 4 of the Python for CV course. 
 <!---
 ## Day x
 ### Today's progress: 
