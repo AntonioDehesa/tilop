@@ -248,6 +248,15 @@ But after sunday, i will leave this course on pause, because i will continue Cod
 
 I could not continue my course yesterday, due to german homework. 
 But, i compensated it today. Im halfway through the section 4 of the Python for CV course. 
+
+## Day 25: Feb 15 2021
+### Today's progress: 
+
+This week, it is all about programming. I will program as much as possible, and try to complete as many challenges from hackerrank, and complete as many challenges from CTCI as possible. 
+Next week, it will be all about Secure programming, and then, we go back to the Python for CV course. 
+
+### Sources: 
+* [HackerRank challenge: Max Min](https://www.hackerrank.com/challenges/angry-children/problem)
 <!---
 ## Day x
 ### Today's progress: 
