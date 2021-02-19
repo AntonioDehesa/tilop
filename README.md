@@ -257,6 +257,29 @@ Next week, it will be all about Secure programming, and then, we go back to the 
 
 ### Sources: 
 * [HackerRank challenge: Max Min](https://www.hackerrank.com/challenges/angry-children/problem)
+
+## Day 26: Feb 16 2021
+### Today's progress: 
+
+Started the HackerRank challenge ReverseShuffleMerge. 
+Difficulty: Advanced. 
+Honestly, it was not as hard as expected. I was about to solve it completely on my own, but something was not quite right...
+Looking in the discussions session, i looked at a comment, saying i should try it with the string, reversed in the final step. 
+Yep, it worked. 
+
+## Day 27: Feb 17 2021
+### Today's progress: 
+
+Completed the HackerRank challenge, ReverseShuffleMerge. 
+I just needed some adjusments. Tomorrow, i will put it on Java. 
+
+## Day 28: Feb 18 2021
+### Today's progress: 
+
+Finished parsing the HackerRank challenge ReverseShuffleMerge to Java. 
+Was about to start the IceCream challenge, but there are other things to do...
+
+### Sources: 
 <!---
 ## Day x
 ### Today's progress: 
