@@ -184,7 +184,8 @@ Finally, we get our score for the lab.
 When handling Credit Cards, and operations with them, you have to follow certain rules. 
 These are, among others, the PCI Compliance rules. 
 This particular challenge focuses on: not directly logging the credit card information.
-
+![PCI Violation - Description](https://github.com/AntonioDehesa/tilop/blob/main/Images/Security/Python/PCI%20Compliance%20Violation/2.%20Challenge.PNG)
+![PCI Violation - Recommendations](https://github.com/AntonioDehesa/tilop/blob/main/Images/Security/Python/PCI%20Compliance%20Violation/1.%20Recommendations.PNG)
 ## Impact
 
 * Information leakage
@@ -205,10 +206,10 @@ The SecureFlag labs are divided in three main sections:
 ### Setup 
 It is where you get your first contact with the web application of the problem.  
 You see the code of the application (at least in this lab) and you can see the application running for the first time. After you have launched the application succesfully, you can get to the next section. 
-![PCI Violation - Setup](https://github.com/AntonioDehesa/tilop/blob/main/Images/Security/Python/XSS/XSS%20-%20Setup.png)
+![PCI Violation - Setup](https://github.com/AntonioDehesa/tilop/blob/main/Images/Security/Python/PCI%20Compliance%20Violation/3.%20Running%20App.PNG)
 
 
 ### Fix
 Afterwards, we get the *Fix* section. In this section, our duty is to fix the vulnerable code. 
 The way to fix it, is to take the first four numbers of the credit card, and substitute the rest with asterisks.  
-![PCI - Fix](https://github.com/AntonioDehesa/tilop/blob/main/Images/Security/Python/XSS/XSS%20-%20Fix.png)
+![PCI - Fix](https://github.com/AntonioDehesa/tilop/blob/main/Images/Security/Python/PCI%20Compliance%20Violation/5.%20Solution.PNG)
