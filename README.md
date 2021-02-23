@@ -279,7 +279,19 @@ I just needed some adjusments. Tomorrow, i will put it on Java.
 Finished parsing the HackerRank challenge ReverseShuffleMerge to Java. 
 Was about to start the IceCream challenge, but there are other things to do...
 
+## Day 29: Feb 19 2021
+### Today's progress: 
+Ice Cream parlor challenge. I really liked this challenge. 
+
+## Day 30: Feb 22 2021
+### Today's progress: 
+This week, its all about secure programming, with SecureFlag. 
+Today´s challenge: PCI Compliance Violation. 
+I was really easy, because all you needed to do was change the logging, from showing the cards entire PAN, to just the first four digits. 
 ### Sources: 
+* [SecureFlag](secureflag.owasp.org)
+* [TJX: Consequences of PCI Violation](https://www.zdnet.com/article/tjx-offers-us40-9m-settlement-over-breach/)
+* [Target: Consequences of PCI Violation](https://nypost.com/2014/02/26/targets-profits-down-46-after-data-breach/)
 <!---
 ## Day x
 ### Today's progress: 

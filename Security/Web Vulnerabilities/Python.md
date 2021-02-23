@@ -176,3 +176,39 @@ In this case, the way to fix it was simply removing the *safe* tag. This would e
 Finally, we get our score for the lab.  
 ![5 - Results](https://github.com/AntonioDehesa/tilop/blob/main/Images/Security/Python/OS%20Command%20Injection/5%20-%20Correct%20Answer.JPG)
 
+
+# PCI Compliance Violation
+
+## Description of the vulnerability
+
+When handling Credit Cards, and operations with them, you have to follow certain rules. 
+These are, among others, the PCI Compliance rules. 
+This particular challenge focuses on: not directly logging the credit card information.
+
+## Impact
+
+* Information leakage
+* Tons of money lost (lawsuits, stolen, etc.)
+* Loss of credibility
+
+## Prevention
+
+Simply, do not log directly the information of the credit card. Log it partially.
+
+## Lab
+
+The SecureFlag labs are divided in three main sections:
+* Setup
+* Hack
+* Fix
+
+### Setup 
+It is where you get your first contact with the web application of the problem.  
+You see the code of the application (at least in this lab) and you can see the application running for the first time. After you have launched the application succesfully, you can get to the next section. 
+![PCI Violation - Setup](https://github.com/AntonioDehesa/tilop/blob/main/Images/Security/Python/XSS/XSS%20-%20Setup.png)
+
+
+### Fix
+Afterwards, we get the *Fix* section. In this section, our duty is to fix the vulnerable code. 
+The way to fix it, is to take the first four numbers of the credit card, and substitute the rest with asterisks.  
+![PCI - Fix](https://github.com/AntonioDehesa/tilop/blob/main/Images/Security/Python/XSS/XSS%20-%20Fix.png)
