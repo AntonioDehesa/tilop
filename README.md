@@ -292,6 +292,16 @@ I was really easy, because all you needed to do was change the logging, from sho
 * [SecureFlag](secureflag.owasp.org)
 * [TJX: Consequences of PCI Violation](https://www.zdnet.com/article/tjx-offers-us40-9m-settlement-over-breach/)
 * [Target: Consequences of PCI Violation](https://nypost.com/2014/02/26/targets-profits-down-46-after-data-breach/)
+
+## Day 31:Feb 24 2021
+### Today's progress:
+
+I could not practice yesterday, because i had to do some homework.  
+Today, i could practice XXE.  
+It was an easy challenge, but i liked it. 
+
+### Sources: 
+* [SecureFlag](secureflag.owasp.org)
 <!---
 ## Day x
 ### Today's progress: 
