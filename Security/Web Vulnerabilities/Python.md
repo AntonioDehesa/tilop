@@ -223,34 +223,21 @@ The way to fix it, is to take the first four numbers of the credit card, and sub
 
 This is a vulnerability that shows up when processing a XML file, without the right parameters, such as accepting external entities (which, is the name for this particular vulnerability [XML External Entity]). 
 
-![PCI Violation - Description](https://github.com/AntonioDehesa/tilop/blob/main/Images/Security/Python/PCI%20Compliance%20Violation/2.%20Challenge.PNG)
-## Impact
-
-* Information leakage
-* Tons of money lost (lawsuits, stolen, etc.)
-* Loss of credibility
-
-## Prevention
-
-Simply, do not log directly the information of the credit card. Log it partially.
-
-## Lab
-
-The SecureFlag labs are divided in three main sections:
-* Setup
-* Hack
-* Fix
-
+![XXE - Description](https://github.com/AntonioDehesa/tilop/blob/main/Images/Security/Python/XXE/1.%20Introduction.PNG)
 
 ## Hack
 
 This "hack" was simply to check the GET response in Postman. 
 
-![XXE - Fix](https://github.com/AntonioDehesa/tilop/blob/main/Images/Security/Python/PCI%20Compliance%20Violation/5.%20Solution.PNG)
+![XXE - Hack](https://github.com/AntonioDehesa/tilop/blob/main/Images/Security/Python/XXE/2.%20Hack.PNG)
 ### Fix
 Afterwards, we get the *Fix* section. In this section, our duty is to fix the vulnerable code. 
 The fix is to simply add the parameter 'resolve_entities' with the value = False
 ```Python
 parser = etree.XMLParser(resolve_entities=False)
 ```
-![PCI - Fix](https://github.com/AntonioDehesa/tilop/blob/main/Images/Security/Python/PCI%20Compliance%20Violation/5.%20Solution.PNG)
+![XXE - Fix](https://github.com/AntonioDehesa/tilop/blob/main/Images/Security/Python/XXE/3.%20Fix.PNG)
+
+### Result
+As we can see, the external entity was not executed. 
+![XXE - Fix](https://github.com/AntonioDehesa/tilop/blob/main/Images/Security/Python/XXE/4.%20Result.PNG)
