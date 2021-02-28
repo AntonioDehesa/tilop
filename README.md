@@ -302,6 +302,28 @@ It was an easy challenge, but i liked it.
 
 ### Sources: 
 * [SecureFlag](secureflag.owasp.org)
+
+## Day 32:Feb 26 2021
+### Today's progress:
+
+I could not practice yesterday, because i had to do some homework.  
+Today, i did some CTCI challenges. Just two. 
+
+It was a slow day, but whatever. I will continue both on saturday, and next week i continue my CV with Python course.  
+Besides, on sunday i will participate in OWASP: Call to Battle. 
+Im not expecting to win, but it will be fun. 
+
+## Day 33:Feb 27 2021
+### Today's progress:
+
+Today, i did some secureflag labs. In particular: 
+* Authorization bypass in Admin functionalities
+* Misconfiguration of debug policies
+
+Besides those, i also did a CTCI challenge, the string compression one. It was an easy one, which makes sense, as it is in the easy part of the book.
+
+### Sources: 
+* [SecureFlag](secureflag.owasp.org)
 <!---
 ## Day x
 ### Today's progress: 
