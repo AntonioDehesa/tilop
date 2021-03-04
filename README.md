@@ -332,6 +332,15 @@ Continuing PYthon for CV course.
 This lection was about image processing. 
 Besides, i did one CTCI challenge: Rotate MAtrix. Using additional space is really easy. doing it in place, not so much. 
 I liked this one, cause i used an img to see the results, which is what i have been working on.
+
+## Day 35: March 3 2021
+### Today's progress: 
+
+Im still doing the Python for CV course. 
+This section is a little long, but im almost done with it.
+Today, the lessons were about: 
+* Image Processing: Gradient
+* Image Processing: Histogram
 <!---
 ## Day x
 ### Today's progress: 
