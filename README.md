@@ -341,6 +341,13 @@ This section is a little long, but im almost done with it.
 Today, the lessons were about: 
 * Image Processing: Gradient
 * Image Processing: Histogram
+
+## Day 36: March 4 2021
+### Today's progress: 
+
+Completed the "Image Processing" section in the Python for CV course.  
+And, as soon as i started the video processing section, i discovered, that the webcam does not work, so i will try again in windows.  
+Trying to solve it took longer than expected, and i could not do the daily challenge.
 <!---
 ## Day x
 ### Today's progress: 
