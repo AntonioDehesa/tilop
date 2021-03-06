@@ -348,6 +348,13 @@ Today, the lessons were about:
 Completed the "Image Processing" section in the Python for CV course.  
 And, as soon as i started the video processing section, i discovered, that the webcam does not work, so i will try again in windows.  
 Trying to solve it took longer than expected, and i could not do the daily challenge.
+
+## Day 37: March 5 2021
+### Today's progress: 
+
+Completed "Video processing" section in the Python for CV Course. 
+I really liked this part of the course, because it is what i want to do after i complete this course. and the next section, is object detection. 
+i am truly excited
 <!---
 ## Day x
 ### Today's progress: 
