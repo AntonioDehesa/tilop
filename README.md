@@ -355,6 +355,14 @@ Trying to solve it took longer than expected, and i could not do the daily chall
 Completed "Video processing" section in the Python for CV Course. 
 I really liked this part of the course, because it is what i want to do after i complete this course. and the next section, is object detection. 
 i am truly excited
+
+
+## Day 38: March 9 2021
+### Today's progress: 
+
+Continued with the Python for CV course. Im already at the "Object detection" section. Looks really cool, but could not advance much. 
+Too tired...
+
 <!---
 ## Day x
 ### Today's progress: 
