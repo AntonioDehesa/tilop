@@ -363,6 +363,12 @@ i am truly excited
 Continued with the Python for CV course. Im already at the "Object detection" section. Looks really cool, but could not advance much. 
 Too tired...
 
+## Day 39: March 10 2021
+### Today's progress: 
+
+I only had time to do one quick problem. String rotation, from the CTCI. 
+It was a really easy problem, at least compared to others i've done recently. 
+
 <!---
 ## Day x
 ### Today's progress: 
