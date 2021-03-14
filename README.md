@@ -369,6 +369,13 @@ Too tired...
 I only had time to do one quick problem. String rotation, from the CTCI. 
 It was a really easy problem, at least compared to others i've done recently. 
 
+## Day 40: March 13 2021
+### Today's progress: 
+
+Continued with the Python for CV course. Completed the edge and corner detections.
+
+This monday, a free day, im going to try and complete the course!!!
+
 <!---
 ## Day x
 ### Today's progress: 
