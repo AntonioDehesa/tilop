@@ -376,6 +376,14 @@ Continued with the Python for CV course. Completed the edge and corner detection
 
 This monday, a free day, im going to try and complete the course!!!
 
+## Day 41: March 15 2021
+### Today's progress: 
+
+Completed the Object Detection section of the Python for CV course. Started the object tracking section.  
+Having a little bit of a problem trying to remember the syntax, but that is nothing a google search cant solve. 
+Besides, i had a little trouble trying to differenciate the goodpointstotrack and the tracking itself. but i think i 
+already got it...
+
 <!---
 ## Day x
 ### Today's progress: 
