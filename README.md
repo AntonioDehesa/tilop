@@ -384,6 +384,11 @@ Having a little bit of a problem trying to remember the syntax, but that is noth
 Besides, i had a little trouble trying to differenciate the goodpointstotrack and the tracking itself. but i think i 
 already got it...
 
+
+## Day 42: March 16 2021
+### Today's progress: 
+
+Continued the Python for CV course. Almost finished it, so no point in going back to other activites until i finish it. 
 <!---
 ## Day x
 ### Today's progress: 
