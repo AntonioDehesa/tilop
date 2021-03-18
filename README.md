@@ -389,6 +389,14 @@ already got it...
 ### Today's progress: 
 
 Continued the Python for CV course. Almost finished it, so no point in going back to other activites until i finish it. 
+lesson: optical flow
+
+## Day 43: March 17 2021
+### Today's progress:  
+
+Once again, continued with the Python for CV course. this lesson was about meanshift and camshift. But at the end, the instructor  
+explains that that is not the best way to track an object, so... tomorrow i will check the API lesson
+
 <!---
 ## Day x
 ### Today's progress: 
