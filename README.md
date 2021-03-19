@@ -397,6 +397,13 @@ lesson: optical flow
 Once again, continued with the Python for CV course. this lesson was about meanshift and camshift. But at the end, the instructor  
 explains that that is not the best way to track an object, so... tomorrow i will check the API lesson
 
+## Day 44: March 18 2021
+### Today's progress: 
+
+Completed the Object Tracking section in the Python for CV Course. 
+Now, i started the section for Deep Learning!!! Woooo...
+I liked the video about the Object Tracking API within OpenCV. 
+
 <!---
 ## Day x
 ### Today's progress: 

@@ -58,3 +58,58 @@ Helps with the tracking of an object, if said object has a recognizable pattern.
 This is useful, because often cameras can create a distortino in an image, such as radial or tangential distortion. 
 
 Grids are also used to calibrate cameras and track motion. 
+
+
+## Boosting tracker
+
+* Based off AdaBoost algorith (the same as the HAAR Cascade)
+* Evaluation occurs across multiple frames
+
+### Pros
+* Very well known and studied algorithm
+
+### Cons
+* Doesnt know when tracking has failed
+* There are better techniques
+
+## MIL (Multiple Instance Learning) tracker
+* Similar to boosting, but considers a neighborhood of points around the current location to create multiple instances. 
+### Pros
+* Good performance, and doesnt drift as much as Boosting
+### Cons
+* Failure to track an object may not be reported back
+* Cant recover from full obstruction
+
+## KCF Tracker
+* Kernelized Correlation Filters
+* Exploits some propertires of the MIL Tracker and the fact that many data points will overlap, leading to more accurate and faster tracking
+### Pros
+* Better than MIL and Boosting
+### Cons
+Can not recover from full obstruction of object
+
+## TLD Tracker
+* Tracking, Learning and Detection
+* Follows the object from frame to frame
+* The detector localizes all appearances that have been observed so far and corrects the tracker if necessary
+* The learning estimates detector´s errors and updates it to avoid these errors in the future
+### Pros
+* Good at tracking even with obstruction in frames
+* Tracks well under large changes in scale
+
+### Cons
+* Can provide many false positives
+
+## MedianFlow Tracker
+* Tracks the object in both forward and backward directions in time, and measures the discrepancies between these two trajectories
+
+### Pros
+
+* Very good at reporting failed tracking
+* Works well with predictable motion
+
+### Cons
+
+* Fails under large motion|fast moving objects
+
+

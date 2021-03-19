@@ -21,4 +21,11 @@ To be able to access your Jenkins configuration from anywhere, there are a list 
 3. In the configuration files of Tomcat, you should write your corresponding port. 
 
 With this, we should be able to access Jenkins *from anywhere*. I hope I did not miss any steps. 
-**Remember: This is insecure. You still need to do some server-hardening. This are just the very basics. It is dangerous to leave it like this.**
+**Remember: This is insecure. You still need to do some server-hardening. These are just the very basics. It is dangerous to leave it like this.**
+
+
+## GitHub Webhooks with Jenkins
+
+Today, i learned to manage GitHub Webhooks using Jenkins, with the Github plugin. It is easier than expected, but some issues are to be expected. 
+Mainly, the issue was that the webhook was detected, but it had a warning that "no such webhook detected", like, the connection was established, and the webhook could be used with a generic webhook plugin, but when using the github plugin, it was suddenly not detected. 
+At the end, i had to delete the original webhook, create it again, and it worked. 
