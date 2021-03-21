@@ -404,6 +404,12 @@ Completed the Object Tracking section in the Python for CV Course.
 Now, i started the section for Deep Learning!!! Woooo...
 I liked the video about the Object Tracking API within OpenCV. 
 
+
+## Day 45: March 20 2021
+### Today's progress: 
+Started the Deep Learning section. 
+The first videos where about Machine Learning basics, and concepts. 
+During this section, i´ll be learning the use of Keras. 
 <!---
 ## Day x
 ### Today's progress: 
