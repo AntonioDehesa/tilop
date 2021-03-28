@@ -418,6 +418,12 @@ So, due to certain circumstances,i could not really continue during these few da
 But, today i could continue with the Python CV course. 
 It is going great, im really liking the AI section. 
 
+## Day 47: March 27 2021
+### Today's progress: 
+
+Today, i could only practice a little bit with the CTCI. 
+Due to reasons, i will not continue with the Python for CV course, but i will be studying about HTML, JavaScript, CSS, etc. 
+
 <!---
 ## Day x
 ### Today's progress: 
