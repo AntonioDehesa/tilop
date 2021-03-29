@@ -424,6 +424,9 @@ It is going great, im really liking the AI section.
 Today, i could only practice a little bit with the CTCI. 
 Due to reasons, i will not continue with the Python for CV course, but i will be studying about HTML, JavaScript, CSS, etc. 
 
+## Day 48: March 28 2021
+### Today's progress: 
+So, today i learned about "how browsers work", and i remembered a little bit about what are APIs. For reasons.
 <!---
 ## Day x
 ### Today's progress: 
