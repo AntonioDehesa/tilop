@@ -86,6 +86,41 @@ Affects all renders, and handles screen resize.
 
 In this step, it paints the rendered objects. 
 
+
+## How the web works
+Your browser is the client.  
+A remote computer would be the server.  
+A browser gets the page you are looking for using URL/URI, which stand for Universal Resource Locator, or Universal Resource Identifier. 
+These URI have several components: 
+* Scheme: It refers a specification to assign identifiers (urn:, tag:, cid:) or the protocol (http:, mailto:, ftp:)
+* Authority: Hierarchical element that identifies the name authority. Example: //www.example.com
+* Route: Information after authority that identifies the specific resource: /example1/example2
+* Query: non-hierarchical data. Its syntax is not well defined, but by convention is most often a sequence of attribute–value pairs separated by a delimiter. (?=)
+* Fragment: Preceeded by #. It specifies an exact part of the resource. 
+
+## HTTP Protocol 
+Stateless protocol. Meaning, it does not store any data about previous connections. 
+It follows the request-response scheme between a client and a server. The client performs a request, and the server returns a response. 
+The types of requests (or verbs) are: 
+* GET: It requests a resource. For security reasons, get requests must only ask for data, and do nothing else. 
+* HEAD: It does the exact same thing as GET, but it does not return the body of the request.
+* POST: It sends data for it to be processed by the server. It can be used to create other resources, server side. 
+* PUT: Same as post, but Put does not specify which resource will be processing the data. 
+* DELETE: Deletes the specified resource.
+* TRACE: Depuration verb. It returns the same data that it received. 
+* OPTIONS: Returns the HTTP methods that the server supports for a specified URL. 
+* Connect: Used to check if you have access to the host. 
+
+
+### Error codes
+* 1XX: Informative answers. Indicates that the request has been received and that is is being processed. 
+* 2XX: Correct responses. 
+* 3XX: Redirecting responses. Meaning that the client must perform more actions before completing the request. 
+* 4XX: Client caused errors. 
+* 5XX: Server caused errors. 
+### Headers
+Establishes wether certain content is allowed or not, as well as charcode. 
+
 ## Sources
 
 * https://en.wikipedia.org/wiki/Browser_engine

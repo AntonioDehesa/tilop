@@ -427,6 +427,11 @@ Due to reasons, i will not continue with the Python for CV course, but i will be
 ## Day 48: March 28 2021
 ### Today's progress: 
 So, today i learned about "how browsers work", and i remembered a little bit about what are APIs. For reasons.
+
+
+## Day 49: March 29 2021
+### Today's progress: 
+Continued with the APIs training, and remembered how to use Postman. It has been a while since i´ve used it. 
 <!---
 ## Day x
 ### Today's progress: 
