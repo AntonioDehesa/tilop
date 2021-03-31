@@ -26,12 +26,17 @@ HTTP protocol is stateless, meaning that it does not remember anything from prev
 ### Layered System
 
 A layered system means that you might launch a request on server a, store the data on server b, and authenticate on server c. 
+Components of a REST system cannot see beyond their own layer. 
 
 ### Cacheability
 
 A RESTful API should support cacheability, using values such as "Last modified on". 
+This way, we dont need to make unnecesary requests. 
 
 ### Uniform design
+
+
+
 ### Code on Demand
 
 ## CRUD
