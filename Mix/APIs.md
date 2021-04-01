@@ -35,7 +35,10 @@ This way, we dont need to make unnecesary requests.
 
 ### Uniform design
 
-
+Resource identification in requests. 
+Resource manipulation through representatinos.
+Self-descriptive messages. 
+Hypermedia as the engine of application state. 
 
 ### Code on Demand
 

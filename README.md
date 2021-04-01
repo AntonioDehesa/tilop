@@ -432,6 +432,11 @@ So, today i learned about "how browsers work", and i remembered a little bit abo
 ## Day 49: March 29 2021
 ### Today's progress: 
 Continued with the APIs training, and remembered how to use Postman. It has been a while since i´ve used it. 
+
+
+## Day 50: March 30 & 31 2021
+### Today's progress: 
+Cotinued with the API training, as well as some other web concepts, such as cookies
 <!---
 ## Day x
 ### Today's progress: 
