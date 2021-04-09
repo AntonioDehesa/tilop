@@ -22,3 +22,50 @@ My typing fingers are crossed. In the technology industry, having a little conte
 ## History of the computer
 * First, data storage started with punch cards
 * Afterwards, we moved on to magnetic tape
+
+
+## Character encoding 
+It is used to assign binary values to characters, so humans can read them. 
+Almost like a dictionary. 
+The oldest encoding standard is ASCII. 
+The first ASCII character is a, represented as 01100001 in binary. It was good, but eventually, we needed more. 
+Today, we use UTF 8. It even allows us to represent emojis. 
+
+## Abstraction 
+
+When using our computers, we don’t interact with it using ones and zeros. We don’t send 1 and 0 through our mouse, and we don’t send the specific ones and zeros with our keyboard to represent characters. 
+We just use them, and they do it for us. This is called abstraction. 
+It hides complexity by providing a common interface. 
+
+
+## Computer architecture overview 
+
+The four main layers of a computer are: hardware, software, operating system, and the users. 
+
+
+# The Modern Computer
+
+## Ports 
+Connection points that we can connect devices to that extend the functionality of our computer. 
+
+## CPU
+
+The brain of the computer. It does all the calculations and data processing. 
+
+## RAM (Random Access Memory)
+
+Stores data temporarily
+
+## Hard Drive
+
+Holds all the data. 
+
+## Programs
+
+Basic instructions that tell the computer what to do. 
+
+
+## External Data Bus
+
+Row of wires that interconnect the parts of our computer. 
+
