@@ -120,3 +120,99 @@ The chipsets are made of two chips:
 * Southbridge: maintains our IO controllers, like hard drives, usb devices, etc. 
 In some modern CPUs, the northbridge is integrated in them. 
 Form factor in a motherboard is the size. There´s ATX, ITX, mini ITX, nano ITX and pico ITX. 
+
+
+## Drivers 
+
+The drivers contain the instructions the CPU needs to understand external devices, like keyboards, usbs, etc. the CPU does not know that there is an external device to connect to, so it connects to the BIOS, or Basic Input Output Services. The BIOS is the one that initializes the hardware in our computer and gets the OS up and running. 
+This BIOS is stored in the motherboard´s ROM, or Read-Only Memory.
+The ROM is non-volatile. After the OS loads up, the ROM can then load non-essential drivers, from the hard drive. 
+There is a new competitor for the BIOS: the UEFI. 
+The UEFI stands for Unified Extensible Firmware Interface. It performs the same functions, but better. Better compatibility and support. 
+Sometimes, computers run a test to check if the hardware is ok. This is called a Power On Self-Test or POST.  
+To save the settings for the BIOS, there is a special chip called the CMOS. 
+
+
+# Software
+
+## SSH 
+Secure Shell is a protocol implemented by other programs to securely access one computer from another. To use it, you need a SSH client in the computer that you are using to connect to another computer, and a SSH server in the computer you are trying to connect to. 
+On the remote computer, the server is a process that is constantly running, scanning for an incoming connection. 
+For Linux, the most popular SSH is OpenSSH. For windows, it is Putty. 
+We need: 
+* An account in the host 
+* The hostname or the IP address of the host
+Now that we are connected, everything we type, is sent through secure channels. 
+We can authenticate using a password, but this is not super secure. It is better to use an authentication key. 
+Private and public keys. 
+
+## VPN 
+Virtual Private Network. 
+Another way to connect securely remotely. 
+ 
+The default port for SSH is 22. 
+
+
+It is the Remote Desktop Protocol, or RDP. This protocol is available for Linux and Mac. 
+
+
+# Components of an OS
+
+The OS is the whole package that manages computers resources and lets us interact with it. There are two main parts to an OS: 
+* Kernel
+* User space
+The kernel is the main core of an OS. It talks directly to the hardware and manages our systems resources. The users do not interact directly with it. We interact with the user space. Which means, everything outside the kernel. 
+
+The kernel does file storage in file management. 
+Besides, with the kernel´s process management, we manage the order the programs run in, how many resources they take up, how long they run, etc. 
+Memory management: the kernel optimizes memory usage and make our applications have enough memory to run. 
+Finally, the kernel manages IO. 
+
+## File and files systems 
+
+There are three main components to handling files on an OS: 
+* The file data
+* Metadata
+* File system 
+
+## File System 
+
+There are a lot of file systems, and the OS needs to know which one it is using. 
+They operate at different speeds, some support the storage of large amounts of data, others not large amounts of data, etc. for example, windows uses NTFS, MacOS uses HFS+, and linux uses whatever every distribution wants, but an unofficial standard is ext4. 
+
+Data is stored in blocks. It does not always sit in one piece. It is divided in blocks, as to not leave empty spaces. 
+
+Metadata is the file that tells when it was created, who modified it, when, etc. 
+
+
+
+## Process management 
+
+Processes are programs executing. Programs are applications you can run. 
+The difference is, there can be many processes for one program. 
+As there are finite resources in a computer, we need the kernel to manage the resources to run the programs, so we can run as many programs as possible. 
+For example, the CPU. There is only one CPU, yet we have to run several processes at the same time. How does this happen? Time slices. Time slice is a very short interval in which a process can act. After that, its another´s processes turn to act. 
+
+
+## Memory management 
+
+Virtual memory: combination of hard disk and RAM. When we execute a process, we take the data of the program in chunks we call pages. We store these pages in virtual memory. If we want to read and execute these pages, they have to be sent to physical memory or RAM.
+We could store the entire program in the RAM, if the RAM could hold it. 
+Of course, the kernel does not load the entire application in the RAM. Just the parts we would normally need. If we go to an obscure menu in the app, it could take a little longer to load, and freeze, because it would need to load it from virtual memory, to RAM. 
+IO management 
+
+The kernel manages the peripherals, the data transfer between these, etc. 
+
+
+## User space
+
+This is where the users usually interact. 
+The CLI, GUI and whatever the user does is in here. 
+
+
+## The boot process 
+
+First, the computer is powered on. Then, the BIOS/UEFI runs the POST. 
+After that, a boot process will be chosen. Then, the OS will start loading. 
+Then, drivers are loaded. Then, essential system processes. 
+
