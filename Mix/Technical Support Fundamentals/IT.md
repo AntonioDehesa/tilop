@@ -216,3 +216,38 @@ First, the computer is powered on. Then, the BIOS/UEFI runs the POST.
 After that, a boot process will be chosen. Then, the OS will start loading. 
 Then, drivers are loaded. Then, essential system processes. 
 
+# Networking
+
+The Internet is just an interconnection of computers around the world, like a giant spider web that brings all of us together. We call the interconnection of computers a network. Computers in a network can talk to each other and send data to one another. 
+The simplest of networks would be two computers communicating. 
+We could communicate several computers or machines to one network. That network, and another network together and form a new, bigger network. The size of a city block. 
+Several blocks to form a city-wide network. 
+Several cities to form a bigger network, and so on and so forth. 
+The internet is basically lots of networks communicating. 
+
+But don't make the mistake of thinking the Internet is the World Wide Web. The Internet is the physical connection of computers and wires around the world. 
+The Web is the information on the Internet. We use it to access the Internet. 
+The World Wide Web isn't the only way we can access the Internet. Your e-mail, chat, and file-sharing programs are also ways you can access the Internet. 
+The Internet is composed of a massive network of satellites, cellular networks, and physical cables buried beneath the ground. We don't actually connect to the Internet directly. Instead, computers called servers connect directly to the Internet. Servers store the websites that we use, like Wikipedia, Google, Reddit, and BBC. These websites serve content. The machines that we use, like our mobile phones, laptops, video game, consoles and more, are called clients. 
+Clients request the content, like pictures, websites, from the servers. Clients don't connect directly to the Internet. Instead, they connect to a network run by an Internet service provider or ISP. 
+ISPs have already built networks and run all the necessary physical cabling that connects millions of computers together in one network. They also connect to other networks and other ISPs. 
+But how do the clients know how to get to servers? 
+Computers on a network have an identifier called an IP address. An IP address is composed of digits and numbers like 100.1.4.3. 
+Devices that can connect to a network have another unique identifier called a MAC address. MAC addresses are generally permanent and hard-coded onto a device. 
+When you send or receive data through a network, you need to have both an IP and a MAC address. 
+An IP address is your house address, while the MAC address is the name of this recipient of the letter. 
+One thing to call out is that data that is sent through a network is sent through packets. There are little bits of data, and you guessed it, ones and zeros. 
+When we move data through the network, we break them down into packets. When a packet gets to its destination, it will rearrange itself back in order. 
+
+## How they connect 
+
+* Ethernet cable: physically connects to the network through a cable. 
+* Wifi: Wireless networking. We connect using radio signals and antennas. 
+* Fiber optics: the cables contain glass fibers that move light instead of electricity. The zeros and ones get sent through a beam of light.
+All these is to connect to the router. Several computers connect to the router, and it connects to the rest of the internet. 
+The packets of information get sent from one computer to the router, then to another computer. 
+If we want to sent info to a computer in another network, it would be like this: 
+Computer A wants to send something. It sends it to the router. The router connects to the ISP, which looks for the router of the recipient computer, then sends the info to that router, and that router connects to computer B. 
+
+## Resources 
+* [Coursera - Google: Technical Support Fundamentals](https://www.coursera.org/learn/technical-support-fundamentals)
