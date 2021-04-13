@@ -249,5 +249,53 @@ The packets of information get sent from one computer to the router, then to ano
 If we want to sent info to a computer in another network, it would be like this: 
 Computer A wants to send something. It sends it to the router. The router connects to the ISP, which looks for the router of the recipient computer, then sends the info to that router, and that router connects to computer B. 
 
+
+
+# Networking protocols
+
+Set of rules that make sure the packets of data that we sent and receive are routed efficiently, are not corrupted, are secure, go to the right machine, and are named appropriately. 
+
+The main protocols that will be covered in this course, are TCP and IP. 
+* TCP: Transmission Control Protocol: handles reliable delivery of information from one network to another. It was an important part of the creation of the internet since it lets us share information with other computers. 
+* IP: Internet Protocol: responsible for delivering the packets to the right computers. 
+
+## The Web 
+
+The web is the most common way we can use the internet. We can access websites through the web. And websites are basically documents formatted with HTML, stylized with CSS, and that act with JavaScript files. 
+We can access a website using an URL, or Universal Resource Locator. 
+Example of an URL: www.example.com
+
+The www part means World Wide Web
+Then, it comes the domain name. this would be, example. 
+The last part is the domain ending or protocol. This shows us a little about the purpose of the site.
+
+IP has several versions. The currently used protocol is IPv4, which is an address of 32 bits, divided in 4 groups. This gives us over 4.3 billion possible ip addresses. But, these are not enough. 
+Then, there is IPv6. 128 bits. With this, we have 2 to the 128 possible addresses. 
+
+NAT: Network Address Translation. This lets organizations use one public IP, but several internal, private Ips. 
+
+
+Internet of Things or IoT
+
+It is the idea that more and more devices are connecting to the internet, even if not necessarily, like smart showers. 
+
+
+
+# Software 
+
+## Types of software 
+
+Application software: software created to fulfill a specific need. 
+System software: software used to keep our core system running, like operating system tools or utilities. 
+
+Firmware: a type of system software. It is permanently stored on a computer component, like the BIOS. 
+
+
+Compiled programming languages: they use human readable instructions, and then they are compiled, and translated to binary code. 
+Interpreted programming languages: these are not compiled, but only interpreted. 
+A file for an interpreted programming language is a script. 
+
+
+
 ## Resources 
 * [Coursera - Google: Technical Support Fundamentals](https://www.coursera.org/learn/technical-support-fundamentals)
