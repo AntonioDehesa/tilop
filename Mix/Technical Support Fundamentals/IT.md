@@ -296,6 +296,53 @@ Interpreted programming languages: these are not compiled, but only interpreted.
 A file for an interpreted programming language is a script. 
 
 
+# Troubleshooting best practices
+
+Troubleshooting is the ability to diagnose and resolve a problem. 
+
+## Ask questions 
+
+The first thing to do when troubleshooting is to ask questions. You have to gather as much data as possible before trying to solve the problem. 
+
+
+## Isolating the problem 
+
+Isolating a problem can quickly and effectively help you figure out where the issue lies. 
+This is meant to shrink the scope of the problem, so we know we are looking in the right area. Continually isolating the problem will allow us to get to the root cause. 
+
+It is the main factor that is causing a range of issues. Finding the root cause is critical in support, as solving the root cause will stop future problems from arising. 
+
+
+## Follow the cookie crumbs 
+
+This method tells us to go back to the very first place where the problem started, and continue from there. 
+
+Start with the quickest step first 
+
+Once we figure out the root cause, all that is left is to fix it. But, there are many ways to fix a single problem. So, the best way to proceed, is to start with the fastest method. That way, if it fails, we can cross that, and continue. 
+
+## Troubleshooting pitfalls
+
+Pitfall 1: going into autopilot. 
+If you go into autopilot, you might not notice small variables that completely change the problem. 
+Besides, if you do some sloppy job on autopilot, it would take you longer to fix the problem you caused, and then fix the real problem. 
+
+Pitfall 2: not finding the root cause. 
+Do not get distracted with small problems that come up along the way. 
+Remember: there might be a big and real problem, the root cause. 
+
+
+
+## Customer service 
+
+The most important thing to remember about customer service is: exhibit empathy, being conscious of your tone, acknowledging the person you are talking to and developing trust with the user. 
+Empathy would be trying to feel what the user is feeling. You need to feel it from their own perspective. 
+
+Next, is the tone. This refers to the way we write, punctuate, spell, talk, etc. you should not be blunt or short, as the user might think you are ignoring them. 
+We should also be openly and constantly speaking to the user when troubleshooting, so they don’t stay in an awkward silence all the while. 
+
+
+
 
 ## Resources 
 * [Coursera - Google: Technical Support Fundamentals](https://www.coursera.org/learn/technical-support-fundamentals)
