@@ -49,3 +49,57 @@ This would give us a more smooth output.
 There are other activation functions, such as: 
 * Tanh(z): The "same" as the sigmoid function, but the sigmoid goes from 0 to 1, and this one goes from -1 to 1
 * Rectified Linear Unit: we simply input the output of the real function, into max(0,z). 
+
+
+## Cost Function
+
+In this case, we will use: 
+* y to represent the true value
+* a ti represent the neuron´s prediction
+
+In terms of weights and bias:
+* w*x + b = z
+* Pass z into activation function f(z) = a
+
+### Quadratic cost
+
+C = Sum(y-a)^2 / n
+* we can see that larger errors are more prominent due to the squaring
+* unfortunately this calculation can cause a slowdown in our learning speed
+
+### Cross Entropy 
+C = (-1/n)sum(y*ln(a)+(1-y)*ln(1-a))
+* This cost function allows for a faster learning
+* The larger the difference between y and a, the faster the neuron can learn
+
+# 
+We now have 2 key aspects of learning with neural networks: 
+* the neurons with their activation function
+* the cost function
+
+But, the learning is still missing. 
+
+
+# Gradien Descent and Back Propagation
+
+## Gradient Descent
+Gradient descent is an optimization algorith for finding the minimum of a function. 
+To find a local minimum, we take steps proportional to the negative gradient. 
+
+
+Cost in y axis, and weight in x axis.
+By finding this minimum, we can minimize the cost.  
+Finding this minimum is simple for 1 dimension, but our cases will have many more parameters, meaning we´ll need to use the built-in linear algebra that our Deep Learning library will provide.  
+By using gradient descent, we can figure out the best parameters for minimizing our cost. For example, finding the best values for the weigths of the neuron inputs. 
+
+## Back Propagation
+
+Back Progagation will help us to quickly adjust the optimal parameters or weights across our entire network.  
+It is used to calculate the error contribution of each neuron after a batch of data is processed.  
+It relies heavily on the chain rule (calculus) to go back through the network and calculate these errors. 
+
+It calculates the error at the output and then distributes back through the network layers. (It reminds me to control theory). 
+It requires a known desired output for each input value (supervised learning). 
+
+## Source
+Python for computer Vision with OpenCV and Deep Learning, by Jose Portilla

@@ -437,11 +437,25 @@ Continued with the APIs training, and remembered how to use Postman. It has been
 ## Day 50: March 30 & 31 2021
 ### Today's progress: 
 Cotinued with the API training, as well as some other web concepts, such as cookies
+
+## Day 51: April 18 2021
+### Today's progress: 
+I continued the Computer vision course. This time, i started with Keras Basics.  
+I learned to create and train a model using Keras. 
+### Sources: 
+* Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
+
 <!---
 ## Day x
 ### Today's progress: 
 ### Sources: 
 -->
+
+### Resources
+
+* Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
+* ROS Course Part 2, by Anis Koubaa
+* [SecureFlag](www.secureflag.com)
 
 [ROS Course Part 2]: https://www.udemy.com/course/ros-navigation/
 [Docker]: https://github.com/AntonioDehesa/tilop/blob/main/Containers/Docker.md
