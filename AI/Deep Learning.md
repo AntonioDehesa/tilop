@@ -101,5 +101,74 @@ It relies heavily on the chain rule (calculus) to go back through the network an
 It calculates the error at the output and then distributes back through the network layers. (It reminds me to control theory). 
 It requires a known desired output for each input value (supervised learning). 
 
+
+## MNIST Data
+
+A classic data set in Deep Learning. Keras already includes 60000 training images, and 10000 test images. 
+It contains handwritten single digits from 0-9. 
+These images have values that represent a 28x28 array, and its values represent the grayscale image. 
+
+We can think of the entire group of the 60000 images as a 4 dimensional array.
+one dimension is the 60,000 images, another is the color dimension, which is 1 channel. and the other 2 dimensions are the x and y of the images. (60000,28,28,1). 
+
+The labels use one-hot encoding. 
+
+## Convolutional Neural Networks
+
+Just like the simple perceptron, CNNs also have their origins in biological research.  
+Biological vision works by "segmenting" the image the eyes are seeing. It first segments the image, and each section is managed by specific neurons. Then, they can be overlapped, and the information analyzed. 
+This idea inspired an Artificial Neural Network architecture, which would become a CNN. 
+
+### Tensors
+
+N-Dimensional arrays that we build up to: 
+* Scalar - 3
+* Vector - [3,4,5]
+* Matrix - [ [3,4],[5,6],[7,8] ]
+* Tensor - [ [ [1,2], [3,4] ]],  
+           [ [5,6],[7,8]]]
+
+Basically, arrays of matrixes, or arrays of arrays of arrays of arrays.  
+They are used, because they are convinient to feed in sets of images into our model - (I,H,W,C)
+* I: Images 
+* H: Height of Image in Pixels 
+* W: Width of Image in Pixels 
+* C: Color Channels: 1-Grayscale, 3-RGB
+
+### DNN vs CNN
+
+#### Densely-Connected Neural Network
+Densely connected layer. It looks like every neuron in one layer is directly connected to every other neuron in the next layer. 
+
+#### CNN
+Each unit is connected to a smaller number of nearby units in the next layer. Meaning, not every neuron in one layer is directly connected to every neuron in the next layer. 
+
+
+Why dont we just use DNN then? 
+Simple. With images of 256x256 pixels, we would have 56k total connections. Too many parameters, and the bigger the images, the more parameters and connections.  
+* Convolution helps, by segmenting the image, and allowing the neurons to support each other in each section.  
+* Each CNN layer looks at an increasingly larger part of the image. 
+* Having units only connected to nearby units also aids in invariance.
+* CNN also helps with regularization, limiting the search of weights to the size of the convolution. 
+
+The edge cases are "fixed" with the use of padding. 
+
+
+### Convolutions and Filters
+
+The filters are a moving window (the convolution) of nxn, which takes every element inside the window, and performs an operation, giving one output. 
+
+### Pooling Layers 
+
+They will subsample the input image, which reduces the memory use and computer load, as well as reducing the number of parameters. 
+
+For example, we could use a kernel of 2x2, and move it accross the input image. Then, we evaluate what is inside the kernel, and pass only the max value to the next evaluation.  
+This pooling removes a lot of information. a 2x2 with a stride of 2 will remove 75% of the input data. 
+
+### Review Dropout
+
+Form of regularization to help prevent overfitting. During training, units are randomly dropped, along with their connections.  This helps prevent units from co-adapting too much. 
+
+
 ## Source
 Python for computer Vision with OpenCV and Deep Learning, by Jose Portilla

@@ -445,6 +445,12 @@ I learned to create and train a model using Keras.
 ### Sources: 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
 
+
+## Day 52: April 19 2021
+### Today's progress: 
+Continued with the Computer Vision course. The section today included convolutional neural networks, and how to create them. 
+### Sources: 
+* Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
 <!---
 ## Day x
 ### Today's progress: 
