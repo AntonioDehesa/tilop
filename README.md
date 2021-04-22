@@ -458,6 +458,14 @@ Continued with the Computer Vision course. The section today included convolutio
 Continued with the Computer Vision course.
 ### Sources: 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
+
+## Day 54: April 21 2021
+### Today's progress: 
+Continued with the Computer Vision course.  
+The lesson today was about creating a model with your own images, and not a predefined dataset. 
+### Sources: 
+* Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
+
 <!---
 ## Day x
 ### Today's progress: 
