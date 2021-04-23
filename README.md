@@ -466,6 +466,13 @@ The lesson today was about creating a model with your own images, and not a pred
 ### Sources: 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
 
+## Day 55: April 21 2021
+### Today's progress: 
+Continued with the Computer Vision course.
+To complete this lesson, i only need to complete the Deep Learning and CNN assessment
+### Sources: 
+* Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
+
 <!---
 ## Day x
 ### Today's progress: 
