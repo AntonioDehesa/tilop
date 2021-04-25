@@ -170,5 +170,20 @@ This pooling removes a lot of information. a 2x2 with a stride of 2 will remove 
 Form of regularization to help prevent overfitting. During training, units are randomly dropped, along with their connections.  This helps prevent units from co-adapting too much. 
 
 
+## YOLO 
+
+You Only Look Once. 
+Helps by detecting and classifying images, as well as creating bounding boxes. 
+
+Why YOLO?  
+ 
+Prior detection systems repurpose classifiers or localizers to perform detection. 
+
+They apply the model to an image at multiple locations and scales. High scoring regions of the image are considered detections.  
+
+YOLO applys a single neural network to the full image, so it only looks at the image once. This network divides the image into regions and predicts bounding boxes and probabilities for each region. These bounding boxes are weighted by the predicted probabilities. So, one advantage of YOLO would be that it looks at the whole image at test time, so its predictions are informed by global context in the image.  
+
+It also makes predictions with a single network evaluation, unlike systems like R-CNN, which require thousands for a single image. This makes it extremely fast, more than 1000 times faster than R-CNN and 100 times faster than Fast R-CNN. 
+
 ## Source
 Python for computer Vision with OpenCV and Deep Learning, by Jose Portilla

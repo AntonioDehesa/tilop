@@ -473,6 +473,13 @@ To complete this lesson, i only need to complete the Deep Learning and CNN asses
 ### Sources: 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
 
+## Day 56: April 21 2021
+### Today's progress: 
+Continued with the Computer Vision course.
+But today, i only started the yolo lesson.
+### Sources: 
+* Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
+
 <!---
 ## Day x
 ### Today's progress: 
