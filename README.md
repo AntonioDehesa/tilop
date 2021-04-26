@@ -459,24 +459,32 @@ Continued with the Computer Vision course.
 ### Sources: 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
 
-## Day 54: April 21 2021
+## Day 54: April 22 2021
 ### Today's progress: 
 Continued with the Computer Vision course.  
 The lesson today was about creating a model with your own images, and not a predefined dataset. 
 ### Sources: 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
 
-## Day 55: April 21 2021
+## Day 55: April 23 2021
 ### Today's progress: 
 Continued with the Computer Vision course.
 To complete this lesson, i only need to complete the Deep Learning and CNN assessment
 ### Sources: 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
 
-## Day 56: April 21 2021
+## Day 56: April 24 2021
 ### Today's progress: 
 Continued with the Computer Vision course.
 But today, i only started the yolo lesson.
+### Sources: 
+* Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
+
+## Day 57: April 25 2021
+### Today's progress: 
+Finally completed the computer vision course!!
+
+I loved it. But know, it is time to continue with the Web Development course. I hope to continue with one project about computer vision later on tho. 
 ### Sources: 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
 
