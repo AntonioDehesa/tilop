@@ -488,6 +488,11 @@ I loved it. But know, it is time to continue with the Web Development course. I 
 ### Sources: 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
 
+## Day 57 - 60: April 26 2021 - April 29 2021
+### Today's progress: 
+Continued the web development course. Im still in the intermediate CSS section, but im liking it.
+### Sources: 
+The Complete 2021 Web Development Bootcamp, by Angela Yu
 <!---
 ## Day x
 ### Today's progress: 
@@ -497,6 +502,7 @@ I loved it. But know, it is time to continue with the Web Development course. I 
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
+* The Complete 2021 Web Development Bootcamp, by Angela Yu
 * ROS Course Part 2, by Anis Koubaa
 * [SecureFlag](www.secureflag.com)
 

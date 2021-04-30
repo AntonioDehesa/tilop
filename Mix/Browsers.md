@@ -121,6 +121,23 @@ The types of requests (or verbs) are:
 ### Headers
 Establishes wether certain content is allowed or not, as well as charcode. 
 
+
+## Cookies
+
+Small piece of data stored on the user's computers (the browser cache, for example) by the web browser. Designed to be a reliable mechanism for websites to remember stateful information. 
+If we remember correctly, HTTP was designed without the capability to store the state between connections. 
+Cookies are a solution to this. 
+Functions: 
+* Track users activities
+* Remember login details
+* Store the current state
+* Track visitor count (unique visitors)
+
+There are dedicated cookies, such as authentication cookies, used to know whether an user is authenticated, and which account they are using. 
+
+But, they are dangerous too. 
+If the cookies are not encrypted, an attacker could use them to gain acces to users data, or to perform actions using the users accounts. 
+This is called cookie theft. 
 ## Sources
 
 * https://en.wikipedia.org/wiki/Browser_engine
