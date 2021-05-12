@@ -493,6 +493,15 @@ I loved it. But know, it is time to continue with the Web Development course. I 
 Continued the web development course. Im still in the intermediate CSS section, but im liking it.
 ### Sources: 
 The Complete 2021 Web Development Bootcamp, by Angela Yu
+
+## Day 61: May 11 2021
+### Today's progress: 
+
+So, i have been studying for something else, so no web development course. And then, i had three days with no internet (thanks Telmex).
+But finally, i can continue with the web development course!!!
+
+### Sources: 
+The Complete 2021 Web Development Bootcamp, by Angela Yu
 <!---
 ## Day x
 ### Today's progress: 
