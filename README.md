@@ -494,7 +494,7 @@ Continued the web development course. Im still in the intermediate CSS section, 
 ### Sources: 
 The Complete 2021 Web Development Bootcamp, by Angela Yu
 
-## Day 61: May 11 2021
+## Day 61 - 62: May 11 - 12 2021
 ### Today's progress: 
 
 So, i have been studying for something else, so no web development course. And then, i had three days with no internet (thanks Telmex).
@@ -502,6 +502,7 @@ But finally, i can continue with the web development course!!!
 
 ### Sources: 
 The Complete 2021 Web Development Bootcamp, by Angela Yu
+
 <!---
 ## Day x
 ### Today's progress: 
