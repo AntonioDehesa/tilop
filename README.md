@@ -494,11 +494,12 @@ Continued the web development course. Im still in the intermediate CSS section, 
 ### Sources: 
 The Complete 2021 Web Development Bootcamp, by Angela Yu
 
-## Day 61 - 63: May 11 - 13 2021
+## Day 61 - 64: May 11 - 14 2021
 ### Today's progress: 
 
 So, i have been studying for something else, so no web development course. And then, i had three days with no internet (thanks Telmex).
 But finally, i can continue with the web development course!!!
+Completed the beginners Bootstrap module.
 
 ### Sources: 
 The Complete 2021 Web Development Bootcamp, by Angela Yu
