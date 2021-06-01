@@ -512,6 +512,14 @@ Continued with the bootstrap intermediate module in the webdev, and completed an
 ### Sources: 
 The Complete 2021 Web Development Bootcamp, by Angela Yu
 
+## Day 70-76: May 30 2021
+### Today's progress: 
+
+Completed the bootstrap section, and started the Web design section. This section is pure theory, but it is important theory.
+
+### Sources: 
+The Complete 2021 Web Development Bootcamp, by Angela Yu
+
 <!---
 ## Day x
 ### Today's progress: 
