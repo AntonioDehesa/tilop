@@ -520,6 +520,15 @@ Completed the bootstrap section, and started the Web design section. This sectio
 ### Sources: 
 The Complete 2021 Web Development Bootcamp, by Angela Yu
 
+## Day 77-80: June 14 2021
+### Today's progress: 
+
+Completed the JavaScript intermediate section. JavaScript is very similar to other programming languages i already have experience with, so it is really easy, for now. Mostly just remembering.
+Next section, the DOM model.
+
+### Sources: 
+The Complete 2021 Web Development Bootcamp, by Angela Yu
+
 <!---
 ## Day x
 ### Today's progress: 

@@ -80,3 +80,29 @@ or empty space. You dont have to fill every single space in the site or document
 ## Audience
 Design for your audience. For example, if your audience is children, you need lots of colours, fun fonts, and other stuff. 
 But if your audience is adults, you might prefer, something classy, with serious colours. 
+
+# User Experience
+User experience is how the final user will actually use the product. 
+You can spend days, weeks, or months creating a design for your product, only for the user to completely butcher your design, and use your product in a completely different way. 
+
+So, for your product to be used by your users in the way you intended, you have to design it with the user in mind. 
+
+For this, you have to follow simple rules: 
+
+## Simplicity
+KISI. 
+Your product has to be as simple as possible. Your user does not want to spend several hours learning how to use your product. They just want to use it. If they can not get the hang of it in a couple of seconds, they will ditch it. 
+
+## Consistency
+Keep your design consistent. 
+If your product has subproduct a, and subproduct b, your user does not want them to look too different, and specially, work differently. 
+For example, menu bar on the top. Keep it the same throughout the site. Dont change it in every section. 
+
+## Reading patterns
+It has been proved, people read following the "F pattern". 
+Meaning, they will start reading from the top left side, drag their eyes to the left, and then jump to the next line. But they will not read the entire second line, and they will read slightly less of the third line. So, you should keed the most of your content on the top, less content on the second line, and so on and so forth.  
+There is also the Z layout. 
+With this layout, the user starts at the top left, and move to the top right. Then, they move to the bottom left, reading whatever is in the middle. Finally, they move to the bottom right. 
+## All-terrain
+Your site should look well on both mobile, laptop, and big screens. 
+
