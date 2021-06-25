@@ -529,11 +529,19 @@ Next section, the DOM model.
 ### Sources: 
 The Complete 2021 Web Development Bootcamp, by Angela Yu
 
-<!---
-## Day x
+
+## Day 81-90: June 15 - June 25 2021
 ### Today's progress: 
+
+Completed the jQuery section, started the challenge! 
+
+I have been quite busy, but excited for my new job! 
+
+I have not been paying much atention to these course. 
+
 ### Sources: 
--->
+The Complete 2021 Web Development Bootcamp, by Angela Yu
+
 
 ### Resources
 
