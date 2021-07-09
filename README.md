@@ -543,6 +543,28 @@ I have not been paying much atention to these course.
 The Complete 2021 Web Development Bootcamp, by Angela Yu
 
 
+## Day 100: July 7 2021
+### Today's progress: 
+
+Completed the NodeJs introduction section, and completed another challenge in the CTCI. I really dont feel like continuing this book, but now i feel
+forced to complete it. 
+
+### Sources: 
+* The Complete 2021 Web Development Bootcamp, by Angela Yu
+* Cracking the Coding Interview
+
+
+## Day 101: July 8 2021
+### Today's progress: 
+
+Completed the NodeJs introduction section, and completed another challenge in the CTCI. 
+
+Now, I started the API section in the WebDev course. Gotta hurry!
+
+### Sources: 
+* The Complete 2021 Web Development Bootcamp, by Angela Yu
+* Cracking the Coding Interview
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
