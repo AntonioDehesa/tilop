@@ -565,6 +565,23 @@ Now, I started the API section in the WebDev course. Gotta hurry!
 * The Complete 2021 Web Development Bootcamp, by Angela Yu
 * Cracking the Coding Interview
 
+
+## Day 102: Oct 4 2021
+### Today's progress: 
+
+Finally back to keep learning web development!  
+On thursday, I had my certification exam for the GCP ACE.  
+
+I passed! 
+
+So after taking a well-deserved rest, I am back on this!
+
+I left this course on the API section. 
+
+### Sources: 
+* The Complete 2021 Web Development Bootcamp, by Angela Yu
+
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
