@@ -582,6 +582,16 @@ I left this course on the API section.
 * The Complete 2021 Web Development Bootcamp, by Angela Yu
 
 
+## Day 104: Oct 6 2021
+### Today's progress: 
+
+Completed another video of the web development course, and another CTCI challenge. 
+
+### Sources: 
+* The Complete 2021 Web Development Bootcamp, by Angela Yu
+* Cracking the Coding Interview
+
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
