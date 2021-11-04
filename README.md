@@ -591,6 +591,15 @@ Completed another video of the web development course, and another CTCI challeng
 * The Complete 2021 Web Development Bootcamp, by Angela Yu
 * Cracking the Coding Interview
 
+## Day 105: Nov 3 2021
+### Today's progress: 
+
+Completed another video of the web development course, and another CTCI challenge. 
+Almost completed the "GitHub" section, which is kinda redundant, considering I am using Github, but whatever. 
+
+### Sources: 
+* The Complete 2021 Web Development Bootcamp, by Angela Yu
+* Cracking the Coding Interview
 
 ### Resources
 
