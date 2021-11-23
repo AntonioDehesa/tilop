@@ -611,6 +611,19 @@ Completed the "GitHub" section and started the EJS module. Very interesting sect
 * The Complete 2021 Web Development Bootcamp, by Angela Yu
 * Cracking the Coding Interview
 
+## Day 107: Nov 20 2021
+### Today's progress: 
+
+Completed another video of the web development course, and another CTCI challenge (binaryToString). 
+Almost completed the EJS section, and the challenge for the CTCI was interesting. At first, it took me like
+40 minutes to get what I was doing wrong, after I noticed, it only took like 10 minutes to write the right code. 
+I liked it.
+Have not had much time to complete the course and the CTCI. Doing some training for the job. 
+
+### Sources: 
+* The Complete 2021 Web Development Bootcamp, by Angela Yu
+* Cracking the Coding Interview
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
