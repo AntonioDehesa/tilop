@@ -624,6 +624,14 @@ Have not had much time to complete the course and the CTCI. Doing some training 
 * The Complete 2021 Web Development Bootcamp, by Angela Yu
 * Cracking the Coding Interview
 
+## Day 108: Nov 23 2021
+### Today's progress: 
+
+Continued with the course, but I have had a slow streak. 
+
+### Sources: 
+* The Complete 2021 Web Development Bootcamp, by Angela Yu
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
