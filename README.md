@@ -632,6 +632,15 @@ Continued with the course, but I have had a slow streak.
 ### Sources: 
 * The Complete 2021 Web Development Bootcamp, by Angela Yu
 
+## Day 109: Nov 25 2021
+### Today's progress: 
+
+Continued with the web dev course, completed the EJS section. 
+Started a CTCI challenge 
+
+### Sources: 
+* The Complete 2021 Web Development Bootcamp, by Angela Yu
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
