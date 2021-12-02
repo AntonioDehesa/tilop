@@ -649,6 +649,14 @@ Started the next chapter, which is just a challenge. Got to step 4
 ### Sources: 
 * The Complete 2021 Web Development Bootcamp, by Angela Yu
 
+## Day 111: Dec 01 2021
+### Today's progress: 
+
+Completed up until challenge 6. 
+
+### Sources: 
+* The Complete 2021 Web Development Bootcamp, by Angela Yu
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
