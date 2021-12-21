@@ -657,6 +657,14 @@ Completed up until challenge 6.
 ### Sources: 
 * The Complete 2021 Web Development Bootcamp, by Angela Yu
 
+## Day 120: Dec 21 2021
+### Today's progress: 
+
+I have been doing the course, but not registering it here. Completed the challenges. 
+
+### Sources: 
+* The Complete 2021 Web Development Bootcamp, by Angela Yu
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
