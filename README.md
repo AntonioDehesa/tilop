@@ -665,6 +665,15 @@ I have been doing the course, but not registering it here. Completed the challen
 ### Sources: 
 * The Complete 2021 Web Development Bootcamp, by Angela Yu
 
+## Day 121: Dec 21 2021
+### Today's progress: 
+
+Started the SQL section in the Web Dev course, and completed one challenge in the CTCI
+
+### Sources: 
+* The Complete 2021 Web Development Bootcamp, by Angela Yu
+* Cracking the Coding Interview
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
