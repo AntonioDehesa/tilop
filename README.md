@@ -674,6 +674,14 @@ Started the SQL section in the Web Dev course, and completed one challenge in th
 * The Complete 2021 Web Development Bootcamp, by Angela Yu
 * Cracking the Coding Interview
 
+## Day 122: Dec 21 2021
+### Today's progress: 
+
+Completed the SQL section in the Web Dev course
+
+### Sources: 
+* The Complete 2021 Web Development Bootcamp, by Angela Yu
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
