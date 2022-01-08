@@ -682,6 +682,15 @@ Completed the SQL section in the Web Dev course
 ### Sources: 
 * The Complete 2021 Web Development Bootcamp, by Angela Yu
 
+
+## Day 122: Dec 22 2021- Jan 07 2022
+### Today's progress: 
+
+Started and completed the MongoDB section and almost completed the "Putting everything together" section. 
+
+### Sources: 
+* The Complete 2021 Web Development Bootcamp, by Angela Yu
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
