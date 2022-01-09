@@ -691,6 +691,14 @@ Started and completed the MongoDB section and almost completed the "Putting ever
 ### Sources: 
 * The Complete 2021 Web Development Bootcamp, by Angela Yu
 
+## Day 122: Jan 8 2022
+### Today's progress: 
+
+Completed the "Putting everything together" section. 
+
+### Sources: 
+* The Complete 2021 Web Development Bootcamp, by Angela Yu
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
