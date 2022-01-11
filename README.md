@@ -691,10 +691,18 @@ Started and completed the MongoDB section and almost completed the "Putting ever
 ### Sources: 
 * The Complete 2021 Web Development Bootcamp, by Angela Yu
 
-## Day 122: Jan 8 2022
+## Day 123: Jan 8 2022
 ### Today's progress: 
 
 Completed the "Putting everything together" section. 
+
+### Sources: 
+* The Complete 2021 Web Development Bootcamp, by Angela Yu
+
+## Day 124: Jan 10 2022
+### Today's progress: 
+
+Put the DB online using Atlas
 
 ### Sources: 
 * The Complete 2021 Web Development Bootcamp, by Angela Yu
