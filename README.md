@@ -707,6 +707,14 @@ Put the DB online using Atlas
 ### Sources: 
 * The Complete 2021 Web Development Bootcamp, by Angela Yu
 
+## Day 125: Jan 11 2022
+### Today's progress: 
+
+Completed the challenge to make the blog use mongodb. Tomorrow I start the REST section.
+
+### Sources: 
+* The Complete 2021 Web Development Bootcamp, by Angela Yu
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
