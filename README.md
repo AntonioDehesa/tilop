@@ -718,7 +718,12 @@ Completed the challenge to make the blog use mongodb. Tomorrow I start the REST 
 ## Day 126: Jan 12 2022
 ### Today's progress: 
 
-Started the REST section. 
+Started the REST section.
+
+## Day 127: Jan 12 2022
+### Today's progress: 
+
+Almost completed the REST section
 
 ### Sources: 
 * The Complete 2021 Web Development Bootcamp, by Angela Yu
