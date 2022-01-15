@@ -720,10 +720,20 @@ Completed the challenge to make the blog use mongodb. Tomorrow I start the REST 
 
 Started the REST section.
 
-## Day 127: Jan 12 2022
+## Day 127: Jan 13 2022
 ### Today's progress: 
 
 Almost completed the REST section
+
+### Sources: 
+* The Complete 2021 Web Development Bootcamp, by Angela Yu
+
+## Day 128: Jan 14 2022
+### Today's progress: 
+
+Completed the REST section, started the Authentication section. I kind of know this section, 
+as I was working as a cybersecurity consultant (jr) but it is nice
+to see it from the perspective of the developers. 
 
 ### Sources: 
 * The Complete 2021 Web Development Bootcamp, by Angela Yu
