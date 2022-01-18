@@ -746,6 +746,13 @@ The DB is now encrypted. 85% of the course is completed!
 ### Sources: 
 * The Complete 2021 Web Development Bootcamp, by Angela Yu
 
+## Day 130: Jan 17 2022
+### Today's progress: 
+
+We are now using hashing. I would use both. hashing and encrypting, but ok.
+
+### Sources: 
+* The Complete 2021 Web Development Bootcamp, by Angela Yu
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
