@@ -754,13 +754,23 @@ We are now using hashing. I would use both. hashing and encrypting, but ok.
 ### Sources: 
 * The Complete 2021 Web Development Bootcamp, by Angela Yu
 
-## Day 131-36: Jan 25 2022
+## Day 131-36: Jan 24 2022
 ### Today's progress: 
 
 It took me several days to complete the Passport lesson. Like, seriously, the documentation should specify that you need to import body-parser!
 
 ### Sources: 
 * The Complete 2021 Web Development Bootcamp, by Angela Yu
+
+## Day 137: Jan 25 2022
+### Today's progress: 
+
+Started the React module, and completed two challenges in the CTCI
+
+### Sources: 
+* The Complete 2021 Web Development Bootcamp, by Angela Yu
+* CTCI
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
