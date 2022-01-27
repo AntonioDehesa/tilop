@@ -771,6 +771,15 @@ Started the React module, and completed two challenges in the CTCI
 * The Complete 2021 Web Development Bootcamp, by Angela Yu
 * CTCI
 
+## Day 138: Jan 26 2022
+### Today's progress: 
+
+Completed one CTCI challenge, and started learning about React. Easy for now, I guess...
+
+### Sources: 
+* The Complete 2021 Web Development Bootcamp, by Angela Yu
+* CTCI
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
