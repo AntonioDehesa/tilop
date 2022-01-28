@@ -780,6 +780,14 @@ Completed one CTCI challenge, and started learning about React. Easy for now, I 
 * The Complete 2021 Web Development Bootcamp, by Angela Yu
 * CTCI
 
+## Day 139: Jan 27 2022
+### Today's progress: 
+
+Continued the React module. It is interesting, but I dont like using the sandbox. its not that the sandbox is bad, but it is a pain to switch environment for every lesson. 
+
+### Sources: 
+* The Complete 2021 Web Development Bootcamp, by Angela Yu
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
