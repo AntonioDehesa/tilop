@@ -788,6 +788,15 @@ Continued the React module. It is interesting, but I dont like using the sandbox
 ### Sources: 
 * The Complete 2021 Web Development Bootcamp, by Angela Yu
 
+## Day 140: Feb 01 2022
+### Today's progress: 
+
+Started the React challenge. I am liking React, but I am a little confused on how we would 
+manage both React and a backend. Maybe we will see it in the next lessons.
+
+### Sources: 
+* The Complete 2021 Web Development Bootcamp, by Angela Yu
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
