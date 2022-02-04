@@ -797,6 +797,14 @@ manage both React and a backend. Maybe we will see it in the next lessons.
 ### Sources: 
 * The Complete 2021 Web Development Bootcamp, by Angela Yu
 
+## Day 141: Feb 03 2022
+### Today's progress: 
+
+Going through the React module. I am liking it. But I still want to see if we use NodeJs for the backend or what do we do.
+
+### Sources: 
+* The Complete 2021 Web Development Bootcamp, by Angela Yu
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
