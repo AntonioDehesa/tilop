@@ -829,6 +829,14 @@ Almost done with it, and then to the Data Science course.
 ### Sources: 
 * The Complete 2021 Web Development Bootcamp, by Angela Yu
 
+## Day 145: Feb 09 2022
+### Today's progress: 
+
+At 95% of the course! 
+Almost done with it, and then to the Data Science course.
+### Sources: 
+* The Complete 2021 Web Development Bootcamp, by Angela Yu
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
