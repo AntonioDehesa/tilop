@@ -837,10 +837,23 @@ Almost done with it, and then to the Data Science course.
 ### Sources: 
 * The Complete 2021 Web Development Bootcamp, by Angela Yu
 
+## Day 146-147: Feb 11-12 2022
+### Today's progress: 
+
+Finally completed the WebDev course. I liked it. It could improve and update some lessons, as well as include some other lessons, such as combining nodejs with React. I mean, it would be a short lesson, but it would look great. 
+pushing it a little too much, maybe include something about containers. 
+
+Now, I have also started the Data Science and ML course. It really needs to be updated. 
+It is using information from the 2018, and some cleaning methods no longer work. 
+
+### Sources: 
+* The Complete 2021 Web Development Bootcamp, by Angela Yu
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
 * The Complete 2021 Web Development Bootcamp, by Angela Yu
+* Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
 * ROS Course Part 2, by Anis Koubaa
 * [SecureFlag](www.secureflag.com)
 
