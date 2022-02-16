@@ -857,6 +857,15 @@ Continued with the data course, now started with the basics: linear regression.
 ### Sources: 
 * The Complete 2021 Web Development Bootcamp, by Angela Yu
 
+## Day 149: Feb 15 2022
+### Today's progress: 
+
+Continued with the data course. Completed the basics. 5%
+
+### Sources: 
+* Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
+
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
