@@ -865,7 +865,13 @@ Continued with the data course. Completed the basics. 5%
 ### Sources: 
 * Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
 
+## Day 150: Feb 17 2022
+### Today's progress: 
 
+Continued with the data course. Installed Anaconda, going through the basics of python, and completed up to 8% of the course. going fast, apparenly
+
+### Sources: 
+* Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
