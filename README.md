@@ -883,6 +883,15 @@ I am going on vacation!! Well deserved one, too. I have had no breaks for like, 
 ### Sources: 
 * Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
 
+## Day 152: Feb 28 2022
+### Today's progress: 
+
+Back from vacation. Continuing the course. 
+
+### Sources: 
+* Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
+
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
