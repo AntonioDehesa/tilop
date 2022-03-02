@@ -891,6 +891,13 @@ Back from vacation. Continuing the course.
 ### Sources: 
 * Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
 
+## Day 153: March 1 2022
+### Today's progress: 
+
+Completed one more CTCI challenge, and continued the data course
+
+### Sources: 
+* Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
 
 ### Resources
 
