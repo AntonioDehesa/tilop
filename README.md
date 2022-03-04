@@ -899,6 +899,15 @@ Completed one more CTCI challenge, and continued the data course
 ### Sources: 
 * Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
 
+## Day 154: March 3 2022
+### Today's progress: 
+
+Completed one more CTCI challenge, and continued the data course.
+Completed module 3 of the data course, but in the challenge, I peeked into the solution. 
+
+### Sources: 
+* Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
