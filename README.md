@@ -908,6 +908,15 @@ Completed module 3 of the data course, but in the challenge, I peeked into the s
 ### Sources: 
 * Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
 
+## Day 155: March 4 2022
+### Today's progress: 
+
+Started module four, about how machines learn. 
+
+### Sources: 
+* Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
+
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
