@@ -916,6 +916,13 @@ Started module four, about how machines learn.
 ### Sources: 
 * Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
 
+## Day 156: March 7 2022
+### Today's progress: 
+
+Completed two more lessons, about gradient descent, in the data course. 
+
+### Sources: 
+* Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
 
 ### Resources
 
