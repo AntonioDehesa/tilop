@@ -940,6 +940,14 @@ Completed one more lesson, about tuples, in the data course.
 ### Sources: 
 * Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
 
+## Day 159: March 11 2022
+### Today's progress: 
+
+Completed one more lesson, about the rate of learning and the gradient descent, in the data course. 
+
+### Sources: 
+* Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
