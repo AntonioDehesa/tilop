@@ -948,6 +948,15 @@ Completed one more lesson, about the rate of learning and the gradient descent, 
 ### Sources: 
 * Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
 
+## Day 160: March 17 2022
+### Today's progress: 
+
+Completed one CTCI challenge. I have not studied a lot this week, because I am focusing on something internal on work. 
+
+### Sources: 
+
+* Cracking the Coding Interview
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
