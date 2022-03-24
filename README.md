@@ -957,6 +957,14 @@ Completed one CTCI challenge. I have not studied a lot this week, because I am f
 
 * Cracking the Coding Interview
 
+## Day 161: March 23 2022
+### Today's progress: 
+
+Completed two more lessons, about 3d graphs, and symbolic differentials
+
+### Sources: 
+* Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
