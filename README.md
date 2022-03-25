@@ -965,6 +965,14 @@ Completed two more lessons, about 3d graphs, and symbolic differentials
 ### Sources: 
 * Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
 
+## Day 162: March 24 2022
+### Today's progress: 
+
+Completed one more lesson.
+
+### Sources: 
+* Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
