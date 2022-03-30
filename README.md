@@ -981,6 +981,15 @@ Completed two more lessons, about the numpy arrays.
 ### Sources: 
 * Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
 
+
+## Day 164: March 30 2022
+### Today's progress: 
+
+Completed two more lessons, Median Squared Error
+
+### Sources: 
+* Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
