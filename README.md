@@ -990,6 +990,15 @@ Completed two more lessons, Median Squared Error
 ### Sources: 
 * Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
 
+## Day 166: April 04 2022
+### Today's progress:
+
+Completed 3 more lessons in the data course, and one challenge from the CTCI. 
+
+### Sources:
+
+* Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
+* Cracking the Coding Interview
 
 ### Resources
 
