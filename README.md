@@ -1000,6 +1000,14 @@ Completed 3 more lessons in the data course, and one challenge from the CTCI.
 * Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
 * Cracking the Coding Interview
 
+## Day 167: April 6 2022
+### Today's progress: 
+
+Completed lesson 4. Next lesson is about using multivariable prediction on house prices.
+
+### Sources: 
+* Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
