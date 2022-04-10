@@ -1008,6 +1008,15 @@ Completed lesson 4. Next lesson is about using multivariable prediction on house
 ### Sources: 
 * Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
 
+## Day 168: April 9 2022
+### Today's progress: 
+
+Started section 5. Completed 3 lessons. This section is about the steps to solve problems. 
+I could not study for a couple of days due to a language test, but I am back.
+
+### Sources: 
+* Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
