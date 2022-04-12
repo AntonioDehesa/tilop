@@ -1017,6 +1017,14 @@ I could not study for a couple of days due to a language test, but I am back.
 ### Sources: 
 * Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
 
+## Day 169: April 11 2022
+### Today's progress: 
+
+Completed just one more lesson. My laptop is dying. probably wont update this in some time until I get a new one. RIP laptop
+
+### Sources: 
+* Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
