@@ -1025,6 +1025,14 @@ Completed just one more lesson. My laptop is dying. probably wont update this in
 ### Sources: 
 * Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
 
+## Day 170: April 18 2022
+### Today's progress: 
+
+Completed 3 more lessons. My laptop is dying. I have to buy a new one. but everything is so expensive nowadays.
+
+### Sources: 
+* Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
