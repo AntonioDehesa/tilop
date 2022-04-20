@@ -1033,6 +1033,14 @@ Completed 3 more lessons. My laptop is dying. I have to buy a new one. but every
 ### Sources: 
 * Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
 
+## Day 170: April 18 2022
+### Today's progress: 
+
+Completed 2 more lessons. And now I believe I found the issue with my laptop. its not the gpu, its the screen, or the connections to it.
+
+### Sources: 
+* Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
