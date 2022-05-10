@@ -1041,6 +1041,14 @@ Completed 2 more lessons. And now I believe I found the issue with my laptop. it
 ### Sources: 
 * Complete 2022 Data Science & Machine Learning Bootcamp, by Philipp and Angela Yu
 
+## Day 171: May 9 2022
+### Today's progress: 
+
+Finally got a new laptop, and a Raspberry Pi 4b as a remote programming server. And finally installed Jupyter lab, visual studio code, and other stuff on the Pi. Now I wonder, was the laptop a waste?..
+
+### Sources: 
+* None
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
