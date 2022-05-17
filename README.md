@@ -1049,6 +1049,15 @@ Finally got a new laptop, and a Raspberry Pi 4b as a remote programming server. 
 ### Sources: 
 * None
 
+
+## Day 172: May 17 2022
+### Today's progress: 
+
+It was not a waste at all. the pi cannot run some stuff properly. I am currently resting on the data course, while learning about the MERN stack for web, and trying to create my own web app, and then dockerize it and use kubernetes. then, I plan on loading it to GCP. that way, i will learn about MERN stack, learn more about docker, learn kubernetes, and just practice GCP
+
+### Sources: 
+* None
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
