@@ -1050,13 +1050,19 @@ Finally got a new laptop, and a Raspberry Pi 4b as a remote programming server. 
 * None
 
 
-## Day 172: May 17 2022
+## Day 172: May 16 2022
 ### Today's progress: 
 
 It was not a waste at all. the pi cannot run some stuff properly. I am currently resting on the data course, while learning about the MERN stack for web, and trying to create my own web app, and then dockerize it and use kubernetes. then, I plan on loading it to GCP. that way, i will learn about MERN stack, learn more about docker, learn kubernetes, and just practice GCP
 
 ### Sources: 
 * None
+
+## Day 173: May 17 2022
+### Today's progress: 
+
+I created the front end, the backend, and I was able to connect them both. Obviously, all of those steps are at the most basic phase. the front end barely loads the title and an image, the backend just sends some text, and the connection is flaky at best. 
+But hey, at least they can talk to each other, and they exist. Although i feel like i made a mistake, as the server is not completely isolated from the front end. 
 
 ### Resources
 
