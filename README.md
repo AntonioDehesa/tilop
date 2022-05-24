@@ -1064,6 +1064,12 @@ It was not a waste at all. the pi cannot run some stuff properly. I am currently
 I created the front end, the backend, and I was able to connect them both. Obviously, all of those steps are at the most basic phase. the front end barely loads the title and an image, the backend just sends some text, and the connection is flaky at best. 
 But hey, at least they can talk to each other, and they exist. Although i feel like i made a mistake, as the server is not completely isolated from the front end. 
 
+## Day 174: May 24 2022
+### Today's progress: 
+
+They can communicate completely independently from each other. I can also use them on Containers. The translation works, multiple routes, etc. 
+Now, I am working on making it look nice.
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
