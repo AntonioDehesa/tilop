@@ -1070,6 +1070,12 @@ But hey, at least they can talk to each other, and they exist. Although i feel l
 They can communicate completely independently from each other. I can also use them on Containers. The translation works, multiple routes, etc. 
 Now, I am working on making it look nice.
 
+
+## Day 175: May 25 2022
+### Today's progress: 
+
+So, I tried to use dropdowns from react-bootstrap, and it did not work as expected. i had some issues with i18next, where it autoclicked on the translation button repeatedly, crashing the site.
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
