@@ -1076,6 +1076,12 @@ Now, I am working on making it look nice.
 
 So, I tried to use dropdowns from react-bootstrap, and it did not work as expected. i had some issues with i18next, where it autoclicked on the translation button repeatedly, crashing the site.
 
+## Day 176: May 31 2022
+### Today's progress: 
+
+Its working correctly, and I am having some issues with the popover, which spawns wherever the hell it wants. And, dropbox decided to randomly close down my account. no emails, notifications, warnings, nothing. just, hey, we killed 6 years of your personal photos and files, and you cant recover any of them. fuck you. 
+thanks dropbox. i hope your stock crashes and burns to the ground
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
