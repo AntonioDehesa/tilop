@@ -1082,6 +1082,11 @@ So, I tried to use dropdowns from react-bootstrap, and it did not work as expect
 Its working correctly, and I am having some issues with the popover, which spawns wherever the hell it wants. And, dropbox decided to randomly close down my account. no emails, notifications, warnings, nothing. just, hey, we killed 6 years of your personal photos and files, and you cant recover any of them. fuck you. 
 thanks dropbox. i hope your stock crashes and burns to the ground
 
+## Day 177: June 2 2022
+### Today's progress: 
+
+After battling with the popover position, I decided instead to use a modal lol. I think it actually fits a little better with what i wanted to do
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
