@@ -1087,6 +1087,12 @@ thanks dropbox. i hope your stock crashes and burns to the ground
 
 After battling with the popover position, I decided instead to use a modal lol. I think it actually fits a little better with what i wanted to do
 
+
+## Day 178: June 11 2022
+### Today's progress: 
+
+Fixed a little the view of the main site, added some useful lists, and then, I will start the backend of it. I will use mongodb. I thought about using a relational db, but then i thought that a no-relational db would fit better, as i am still thinking about the model that i will use
+
 ### Resources
 
 * Python for Computer Vision with OpenCV and Deep Learning, by Jose Portilla
